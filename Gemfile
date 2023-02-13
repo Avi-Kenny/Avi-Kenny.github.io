@@ -25,3 +25,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Avoid "Unable to load the EventMachine C extension" error
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+
+# Avoid "No source of timezone data could be found." error
+gem 'tzinfo-data'
