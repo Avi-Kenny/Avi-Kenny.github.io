@@ -21,7 +21,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 * Research Assistant (under Dr. Marco Carone), University of Washington, Seattle, WA (Aug 2021 – present).
 * Research Assistant (under Dr. James Hughes), University of Washington, Seattle, WA (Sep 2018 – Aug 2021).
 * Director of Research, Monitoring, and Evaluation, Last Mile Health, Monrovia, Liberia (Feb 2014 – Jun 2018).
-    * Led a team of fourteen full-time staff, managed a $600,000 annual budget, and represented the research, monitoring, and evaluation department on the Executive Team.
+    * Led a team of sixteen full-time staff, managed a $600,000 annual budget, and represented the research, monitoring, and evaluation department on the Executive Team.
     * Crafted the organization's long-term research strategy, served as the in-country principal investigator for four research studies, led the design and execution of seven large-scale cluster sample surveys, and conducted a complete GIS mapping of five of Liberia’s fifteen counties.
     * Designed a custom mobile health app that was (at the time) the only platform in the world capable of transferring data and application updates in fully-disconnected settings.
     * Co-created a monitoring system to collect data from 4,000 community health workers and 400 clinical supervisors together with the Liberia Ministry of Health.
@@ -64,6 +64,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 * BMC Medical Research Methodology
 * Journal of Causal Inference
 * Journal of Medical Internet Research
+* Statistics in Medicine
 
 ### Mentorship
 
