@@ -86,7 +86,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 
 1. **Kenny A**, Gilbert PB, Carone M. Nonparametric inference for the controlled risk and controlled vaccine efficacy curves. *Pre-publication*.
 1. **Kenny A**, Gilbert PB, Carone M. Inference for controlled risk and controlled vaccine efficacy curves using a marginalized Cox proportional hazards model. *Pre-publication*.
-1. Benkeser D, Montefiori DC, McDermott AB, ..., **Kenny A**, ..., Gilbert PB. Comparing and combining antibody assays as correlates of protection against COVID-19 in the COVE mRNA-1273 vaccine efficacy trial. *Science Translational Medicine*, (Under review).
+1. Benkeser D, Montefiori DC, McDermott AB, ..., **Kenny A**, ..., Gilbert PB. Comparing and combining antibody assays as correlates of protection against COVID-19 in the COVE mRNA-1273 vaccine efficacy trial. *Science Translational Medicine*, 15(692):eade90, 2023.
 1. Seaton K, Huang Y, ..., **Kenny A**, ..., Gilbert PB, Tomaras GD. Pharmacokinetic serum concentrations of VRC01 correlate with prevention of HIV-1 acquisition. *The Lancet Preprints*, doi:10.2139/ssrn.4251188, 2023.
 1. Jockers D, Ngafuen R, Baernighausen T, Kessley A, White E, **Kenny A**, Kraemer J, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pederson J, Siedner MJ, Mendin S, Subah M, Hirschhorn L. Implementation of the Liberia National Community Health Assistant (NCHA) program and under-five mortality: a study protocol. *medRxiv Preprint*, doi:10.1101/2022.07.15.22277669, 2022.
 1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, doi:10.1093/biostatistics/kxac24, 2022.
