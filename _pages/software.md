@@ -7,6 +7,8 @@ author_profile: true
 
 <!-- https://gh-card.dev/ -->
 
+<img src="http://ghchart.rshah.org/Avi-Kenny" alt="Avi Kenny's Github chart" />
+
 <hr style="height:1px;border:none;color:#333;background-color:#666;" />
 
 <img src="/../images/logo_SimEngine.png" align="right" width="150" />
