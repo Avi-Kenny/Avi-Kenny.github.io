@@ -64,6 +64,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 * BMC Medical Research Methodology
 * Journal of Causal Inference
 * Journal of Medical Internet Research
+* Prevention Science
 * Statistics in Medicine
 
 ### Mentorship
@@ -107,6 +108,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 
 ## 6. Honors and Awards
 
+* Outstanding PhD Student in Biostatistics, University of Washington School of Public Health Excellence Awards (2023).
 * Achievement Rewards for College Scientists (ARCS) Featured Fellow and Student Speaker (2021).
 * Achievement Rewards for College Scientists (ARCS) Foundation Fellowship (2018 – 2020).
 * Richard Smoke Summer Fellowship (2010).
