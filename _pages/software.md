@@ -37,12 +37,11 @@ author_profile: true
 
 ## vaccine
 
-**vaccine** is an R package for correlates analysis of vaccine clinical trial data. This package is currently under development.
+**vaccine** is an R package that contains various semiparametric and nonparametric statistical tools for immune correlates analysis of vaccine clinical trial data. This includes calculation of summary statistics and estimation of risk, vaccine efficacy, controlled risk, and controlled vaccine efficacy. A development version of this package can be found [here](https://github.com/Avi-Kenny/vaccine).
 
 <hr style="height:1px;border:none;color:#333;background-color:#666;" />
 
 <!-- 
-Below is a list of publicly-available 
 
 [![Avi-Kenny/SimEngine - GitHub](https://gh-card.dev/repos/Avi-Kenny/SimEngine.svg)](https://github.com/Avi-Kenny/SimEngine)
 [![Avi-Kenny/vaccine - GitHub](https://gh-card.dev/repos/Avi-Kenny/vaccine.svg)](https://github.com/Avi-Kenny/vaccine)
