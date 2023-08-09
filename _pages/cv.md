@@ -116,6 +116,6 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 ## 7. Software Development
 
 * *SimEngine* (R package). An open-source framework for statistical simulations in R.
-* *vaccine* (R package). Tools for analysis of vaccine clinical trial data.
+* *vaccine* (R package). Statistical tools for immune correlates analysis of vaccine clinical trial data.
 * Last Mile Data. A comprehensive offline-capable data collection, analysis, and reporting platform built for Last Mile Health
 * DADA-base. An institutional knowledge and process automation platform built for Studio in a School.
