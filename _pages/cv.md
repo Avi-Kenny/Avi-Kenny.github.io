@@ -43,7 +43,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 
 ### Conference Presentations
 
-* "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings (accepted) (Aug 2023).
+* "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings (Aug 2023).
 * "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", International AIDS Conference (Jul 2022).
 
 ### Other Presentations
