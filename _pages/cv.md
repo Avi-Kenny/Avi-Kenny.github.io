@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/assets/Avi Kenny - CV.pdf).
+Updated Aug 17th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/assets/Avi Kenny - CV.pdf).
 
 ## 1. Education
 
-* PhD Candidate, Biostatistics. University of Washington, Seattle, WA (Sep 2018 – present).
-* Bachelor of Arts, Biology. Brown University, Providence, RI. (Sep 2007 – May 2011).
+* Ph.D., Biostatistics. University of Washington, Seattle, WA (Sep 2018 – Aug 2023).
+* B.A., Biology. Brown University, Providence, RI. (Sep 2007 – May 2011).
 
 ## 2. Professional Positions
 
@@ -34,6 +34,7 @@ Updated Feb 28th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 
 ## 3. Teaching
 
+* Guest lecturer, Biostatistics 561, University of Washington (May 2023).
 * Instructor, Biostatistics 111, University of Washington (Apr 2020 – Jun 2020).
 * Guest lecturer, Biostatistics 572, University of Washington (Apr 2021).
 * Guest lecturer, Biostatistics 111, University of Washington (May 2019).
