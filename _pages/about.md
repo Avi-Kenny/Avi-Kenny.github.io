@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I'm currently a PhD candidate in the Department of Biostatistics at the University of Washington in Seattle, working with Dr. Marco Carone. Previously, I served as the Director of Research, Monitoring, and Evaluation at Last Mile Health. My current research interests include:
+Welcome to my personal website. I'm a recent graduate of the University of Washington Biostatistics PhD program, where I worked with Dr. Marco Carone. Previously, I served as the Director of Research, Monitoring, and Evaluation at Last Mile Health. My current research interests include:
 
 * Statistical methods to handle treatment effect heterogeneity in stepped wedge cluster randomized trials
 * Correlates of protection analysis in vaccine clinical trials
