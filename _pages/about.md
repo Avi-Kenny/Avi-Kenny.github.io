@@ -16,4 +16,4 @@ Welcome to my personal website. I'm a recent graduate of the University of Washi
 * Evaluation of global health programs
 * Electronic data capture and data qualtiy assurance in low-resource settings
 
-Feel free to reach out via email to chat about statistical methods, global health, data quality, woodworking, mushroom foraging, live music, ...
+Feel free to reach out via email to chat about statistical methods, global health, data quality, woodworking, mushroom foraging, live music, or anything else.
