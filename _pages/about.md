@@ -14,6 +14,6 @@ Welcome to my personal website. I'm a recent graduate of the University of Washi
 * Correlates of protection analysis in vaccine clinical trials
 * Survival analysis using machine learning tools
 * Evaluation of global health programs
-* Electronic data capture and data qualtiy assurance in low-resource settings
+* Electronic data capture and data quality assurance in low-resource settings
 
 Feel free to reach out via email to chat about statistical methods, global health, data quality, woodworking, mushroom foraging, live music, or anything else.
