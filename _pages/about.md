@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I'm a recent graduate of the University of Washington Biostatistics PhD program, where I worked with Dr. Marco Carone. Previously, I served as the Director of Research, Monitoring, and Evaluation at Last Mile Health. My current research interests include:
+Welcome to my personal website. I am an Assistant Professor in the Department of Biostatistics and Bioinformatics at Duke University, with a secondary appointment at the Duke Global Health Institute. I studied biostatistics at the University of Washington under the supervision of Dr. Marco Carone, and previously served as the Director of Research, Monitoring, and Evaluation at Last Mile Health. My current research interests include:
 
 * Statistical methods to handle treatment effect heterogeneity in stepped wedge cluster randomized trials
 * Correlates of protection analysis in vaccine clinical trials
