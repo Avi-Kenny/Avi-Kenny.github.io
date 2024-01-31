@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Avi Kenny"
 title_separator          : "-"
 name                     : &name "Avi Kenny"
-description              : &description "Department of Biostatistics, University of Washington"
+description              : &description "Department of Biostatistics & Bioinformatics, Duke University"
 url                      : https://Avi-Kenny.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Avi-Kenny/Avi-Kenny.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Avi Kenny"
   avatar           : "Headshot 4 square.jpg"
-  bio              : "Department of Biostatistics, University of Washington"
-  location         : "Seattle, WA"
+  bio              : "Department of Biostatistics & Bioinformatics, Duke University"
+  location         : "Durham, NC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Avi+Kenny"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RJOes1QAAAAJ"
-  email            : avikenny@uw.edu
+  email            : avi.kenny@duke.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
