@@ -18,6 +18,8 @@ Updated Aug 17th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 
 ## 2. Professional Positions
 
+* Assistant Professor, Biostatistics & Bioinformatics, Duke University, Durham, NC (Feb 2024 – present)
+    * Secondary appointment at the Duke Global Health Institute
 * Research Assistant (under Dr. Marco Carone), University of Washington, Seattle, WA (Aug 2021 – present).
 * Research Assistant (under Dr. James Hughes), University of Washington, Seattle, WA (Sep 2018 – Aug 2021).
 * Director of Research, Monitoring, and Evaluation, Last Mile Health, Monrovia, Liberia (Feb 2014 – Jun 2018).
