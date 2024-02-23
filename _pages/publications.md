@@ -11,6 +11,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 1. **Kenny A**, Gilbert PB, Carone M. Nonparametric inference for the controlled risk and controlled vaccine efficacy curves. *Pre-publication*.
 1. **Kenny A**, Gilbert PB, Carone M. Inference for controlled risk and controlled vaccine efficacy curves using a marginalized Cox proportional hazards model. *Pre-publication*.
+1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* (accepted), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *medRxiv*, 2023.
 1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
 1.	Huang Y, Hejazi NS, Blette B, ..., **Kenny A**, ..., Gilbert PB. Stochastic interventional vaccine efficacy and principal surrogate effect modification analyses of antibody markers as correlates of protection against symptomatic COVID-19 in the COVE mRNA-1273 trial. *Viruses*, 15(10), 2023.
