@@ -41,6 +41,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Miscellaneous
 
+1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv*, 2024.
 1. Berrondo C, Carone M, Katz C, **Kenny A**. Adherence to perioperative antibiotic prophylaxis recommendations and its impact on postoperative surgical site infections. *Cureus*, 14(6):e25859, 2022.
 1. Kentoffio K, Kraemer JD, Griffiths T, **Kenny A**, Panjabi R, Sechler GA, Selinsky S, Siedner MJ. Charting health system reconstruction in post-war Liberia: a comparison of rural vs. remote healthcare utilization. *BMC Health Services Research*, 16(1):1-9, 2016.
 1. Ly J, Sathananthan V, Griffiths T, Kanjee Z, **Kenny A**, Gordon N, Basu G, Battistoli D, Dorr L, Lorenzen B, Thompson DR, Waters A, Moore U, Roberts R, Smith W, Siedner MJ, Kraemer JD. Facility-based delivery during the Ebola virus disease epidemic in rural Liberia: analysis from a cross-sectional, population-based household survey. *PLoS Medicine*, 13(8):e1002096, 2016.
