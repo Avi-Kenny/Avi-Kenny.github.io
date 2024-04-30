@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Avi Kenny"
 title_separator          : "-"
 name                     : &name "Avi Kenny"
-description              : &description "Department of Biostatistics & Bioinformatics, Duke University"
+description              : &description "Duke University"
 url                      : https://Avi-Kenny.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Avi-Kenny/Avi-Kenny.github.io"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Avi Kenny"
+title: "Avi Kenny, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
