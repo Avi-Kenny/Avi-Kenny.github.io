@@ -88,8 +88,7 @@ Updated Aug 17th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/asset
 
 ## 5. Publications
 
-1. **Kenny A**, Gilbert PB, Carone M. Nonparametric inference for the controlled risk and controlled vaccine efficacy curves. *Pre-publication*.
-1. **Kenny A**, Gilbert PB, Carone M. Inference for controlled risk and controlled vaccine efficacy curves using a marginalized Cox proportional hazards model. *Pre-publication*.
+1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, https://doi.org/10.1002/sim.10120, 2024.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv*, 2024.
 1. Jockers D, Ngafuan R, Baernighausen T, Kessley A, White EE, **Kenny A**, Kraemer JD, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pedersen J, Siedner MJ, Mendin S, Subah M, Hirschhorn LR. Under-five mortality before and after implementation of the Liberia National Community Health Assistant (NCHA) program: A study protocol. *PloS One*, 19(3):e0272172, 2024.
 1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* (accepted), 2024.

@@ -9,8 +9,6 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Immune correlates of protection
 
-1. **Kenny A**, Gilbert PB, Carone M. Nonparametric inference for the controlled risk and controlled vaccine efficacy curves. *Pre-publication*.
-1. **Kenny A**, Gilbert PB, Carone M. Inference for controlled risk and controlled vaccine efficacy curves using a marginalized Cox proportional hazards model. *Pre-publication*.
 1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* (accepted), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *medRxiv*, 2023.
 1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
@@ -21,6 +19,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Stepped wedge cluster randomized trials
 
+1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, https://doi.org/10.1002/sim.10120, 2024.
 1. **Kenny A**, Voldal E, Xia F, Heagerty PJ, Hughes JP. Analysis of stepped wedge cluster randomized trials in the presence of a time-varying treatment effect. *Statistics in Medicine*, 41(22):4311-4339, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Random effect misspecification in stepped wedge designs. *Clinical Trials*, 19(4):380-383, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Model misspecification in stepped wedge trials: Random effects for time or treatment. *Statistics in Medicine*, 41(10):1751-1766, 2022.
