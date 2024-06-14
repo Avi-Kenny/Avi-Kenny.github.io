@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated Aug 17th, 2023. A PDF copy can be downloaded [here]({{ site.url }}/assets/Avi Kenny - CV.pdf).
+Updated June 14th, 2024.
 
 ## 1. Education
 
