@@ -7,7 +7,7 @@ author_profile: true
 
 Below is a list of publications that have been published in peer-reviewed academic journals (or that are currently in preparation or under review), organized by topic. Full citation information is available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=RJOes1QAAAAJ).
 
-## Immune correlates of protection
+## Vaccine clinical trials / immune correlates of protection
 
 1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* (accepted), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *medRxiv*, 2023.
