@@ -44,22 +44,9 @@ Updated June 14th, 2024.
 
 ## 4. External Professional Activities
 
-### Conference Presentations
+### Associate Editorship
 
-* "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings (Aug 2023).
-* "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", International AIDS Conference (Jul 2022).
-
-### Other Presentations
-
-* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", CLEAR (Clinical Learning, Evidence and Research) Center for Musculoskeletal Disorders webinar (Oct 2023; upcoming).
-* "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", HIV Vaccine Trials Network (HVTN) weekly statistical group meeting (May 2022).
-* "Nonparametric inference for controlled effects in vaccine clinical trials under monotonicity", University of Washington Biostatistics Student Seminar (Jan 2023).
-* "SimEngine: a modular framework for statistical simulations in R", University of Washington Biostatistics Student Seminar (Feb 2022).
-* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Yale University stepped wedge trials research group (Nov 2021).
-* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", University of Washington Biostatistics Student Seminar (Oct 2021).
-* "Stepped wedge cluster randomized controlled trials", University of Washington Biostatistics Student Seminar (Jan 2021).
-* "Estimating the relationship between cabotegravir blood levels and HIV incidence", HIV Prevention Trials Network (HPTN) weekly statistical group meeting (May 2019).
-* "Research, Monitoring, and Evaluation at Last Mile Health", University of Washington Biostatistics Student Seminar (Apr 2019).
+* Clinical Trials
 
 ### Manuscript Reviewer
 
@@ -69,6 +56,24 @@ Updated June 14th, 2024.
 * Journal of Medical Internet Research
 * Prevention Science
 * Statistics in Medicine
+
+### Conference Presentations
+
+* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Society for Clinical Trials Annual Meeting (May 2024).
+* "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings (Aug 2023).
+* "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", International AIDS Conference (Jul 2022).
+
+### Other Presentations
+
+* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", CLEAR (Clinical Learning, Evidence and Research) Center for Musculoskeletal Disorders webinar (Oct 2023).
+* "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", HIV Vaccine Trials Network (HVTN) weekly statistical group meeting (May 2022).
+* "Nonparametric inference for controlled effects in vaccine clinical trials under monotonicity", University of Washington Biostatistics Student Seminar (Jan 2023).
+* "SimEngine: a modular framework for statistical simulations in R", University of Washington Biostatistics Student Seminar (Feb 2022).
+* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Yale University stepped wedge trials research group (Nov 2021).
+* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", University of Washington Biostatistics Student Seminar (Oct 2021).
+* "Stepped wedge cluster randomized controlled trials", University of Washington Biostatistics Student Seminar (Jan 2021).
+* "Estimating the relationship between cabotegravir blood levels and HIV incidence", HIV Prevention Trials Network (HPTN) weekly statistical group meeting (May 2019).
+* "Research, Monitoring, and Evaluation at Last Mile Health", University of Washington Biostatistics Student Seminar (Apr 2019).
 
 ### Mentorship
 
