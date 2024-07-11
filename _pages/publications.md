@@ -9,8 +9,8 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Vaccine clinical trials / immune correlates of protection
 
-1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* (accepted), 2024.
-1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *medRxiv*, 2023.
+1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine*, 42(9), 2024.
+1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *medRxiv:2023.10.15.23295628*, 2023.
 1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
 1.	Huang Y, Hejazi NS, Blette B, ..., **Kenny A**, ..., Gilbert PB. Stochastic interventional vaccine efficacy and principal surrogate effect modification analyses of antibody markers as correlates of protection against symptomatic COVID-19 in the COVE mRNA-1273 trial. *Viruses*, 15(10), 2023.
 1. Benkeser D, Montefiori DC, McDermott AB, ..., **Kenny A**, ..., Gilbert PB. Comparing and combining antibody assays as correlates of protection against COVID-19 in the COVE mRNA-1273 vaccine efficacy trial. *Science Translational Medicine*, 15(692):eade90, 2023.
@@ -40,7 +40,8 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Miscellaneous
 
-1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv*, 2024.
+1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
+1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
 1. Berrondo C, Carone M, Katz C, **Kenny A**. Adherence to perioperative antibiotic prophylaxis recommendations and its impact on postoperative surgical site infections. *Cureus*, 14(6):e25859, 2022.
 1. Kentoffio K, Kraemer JD, Griffiths T, **Kenny A**, Panjabi R, Sechler GA, Selinsky S, Siedner MJ. Charting health system reconstruction in post-war Liberia: a comparison of rural vs. remote healthcare utilization. *BMC Health Services Research*, 16(1):1-9, 2016.
 1. Ly J, Sathananthan V, Griffiths T, Kanjee Z, **Kenny A**, Gordon N, Basu G, Battistoli D, Dorr L, Lorenzen B, Thompson DR, Waters A, Moore U, Roberts R, Smith W, Siedner MJ, Kraemer JD. Facility-based delivery during the Ebola virus disease epidemic in rural Liberia: analysis from a cross-sectional, population-based household survey. *PLoS Medicine*, 13(8):e1002096, 2016.
