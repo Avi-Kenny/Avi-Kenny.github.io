@@ -19,7 +19,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Stepped wedge cluster randomized trials
 
-1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, https://doi.org/10.1002/sim.10120, 2024.
+1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. **Kenny A**, Voldal E, Xia F, Heagerty PJ, Hughes JP. Analysis of stepped wedge cluster randomized trials in the presence of a time-varying treatment effect. *Statistics in Medicine*, 41(22):4311-4339, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Random effect misspecification in stepped wedge designs. *Clinical Trials*, 19(4):380-383, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Model misspecification in stepped wedge trials: Random effects for time or treatment. *Statistics in Medicine*, 41(10):1751-1766, 2022.
@@ -40,6 +40,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Miscellaneous
 
+1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
 1. Berrondo C, Carone M, Katz C, **Kenny A**. Adherence to perioperative antibiotic prophylaxis recommendations and its impact on postoperative surgical site infections. *Cureus*, 14(6):e25859, 2022.

@@ -57,6 +57,10 @@ Updated June 14th, 2024.
 * Prevention Science
 * Statistics in Medicine
 
+### Professional Society Service
+
+* Member, Education Committee, Society for Clinical Trials
+
 ### Conference Presentations
 
 * "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Society for Clinical Trials Annual Meeting (May 2024).
@@ -93,8 +97,9 @@ Updated June 14th, 2024.
 
 ## 5. Publications
 
+1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
-1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, https://doi.org/10.1002/sim.10120, 2024.
+1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
 1. Jockers D, Ngafuan R, Baernighausen T, Kessley A, White EE, **Kenny A**, Kraemer JD, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pedersen J, Siedner MJ, Mendin S, Subah M, Hirschhorn LR. Under-five mortality before and after implementation of the Liberia National Community Health Assistant (NCHA) program: A study protocol. *PloS One*, 19(3):e0272172, 2024.
 1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* 42(9), 2024.
