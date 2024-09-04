@@ -9,6 +9,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Vaccine clinical trials / immune correlates of protection
 
+1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, …, Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
 1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine*, 42(9), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *medRxiv:2023.10.15.23295628*, 2023.
 1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.

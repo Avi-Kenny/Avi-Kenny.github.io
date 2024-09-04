@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated June 14th, 2024.
+Updated August 21st, 2024.
 
 ## 1. Education
 
@@ -97,6 +97,7 @@ Updated June 14th, 2024.
 
 ## 5. Publications
 
+1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, …, Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
 1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
