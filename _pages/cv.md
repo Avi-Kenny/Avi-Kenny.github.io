@@ -54,6 +54,7 @@ Updated August 21st, 2024.
 * BMC Medical Research Methodology
 * Journal of Causal Inference
 * Journal of Medical Internet Research
+* Nature Communications
 * Prevention Science
 * Statistics in Medicine
 
@@ -97,6 +98,7 @@ Updated August 21st, 2024.
 
 ## 5. Publications
 
+1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effect varies by exposure time or calendar time. *arXiv:2409.14706*, 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, …, Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
 1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.

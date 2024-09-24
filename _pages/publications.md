@@ -20,6 +20,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Stepped wedge cluster randomized trials
 
+1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effect varies by exposure time or calendar time. *arXiv:2409.14706*, 2024.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. **Kenny A**, Voldal E, Xia F, Heagerty PJ, Hughes JP. Analysis of stepped wedge cluster randomized trials in the presence of a time-varying treatment effect. *Statistics in Medicine*, 41(22):4311-4339, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Random effect misspecification in stepped wedge designs. *Clinical Trials*, 19(4):380-383, 2022.
