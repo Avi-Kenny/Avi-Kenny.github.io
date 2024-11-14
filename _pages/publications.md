@@ -7,7 +7,7 @@ author_profile: true
 
 Below is a list of publications that have been published in peer-reviewed academic journals (or that are currently in preparation or under review), organized by topic. Full citation information is available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=RJOes1QAAAAJ).
 
-## Vaccine clinical trials / immune correlates of protection
+## Survival analysis using machine learning tools
 
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, …, Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.

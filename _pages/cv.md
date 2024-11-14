@@ -64,12 +64,14 @@ Updated August 21st, 2024.
 
 ### Conference Presentations
 
+* "Time-varying treatment effects in mental health research", Duke Global Mental Health Conference (Oct 2024).
 * "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Society for Clinical Trials Annual Meeting (May 2024).
 * "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings (Aug 2023).
 * "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", International AIDS Conference (Jul 2022).
 
 ### Other Presentations
 
+* "Trends in Mortality among PLHIV in the Africa Health Research Institute Population Cohort, KwaZulu Natal", UNAIDS Reference Group on Estimates, Modelling, and Projection (Jul 2024).
 * "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", CLEAR (Clinical Learning, Evidence and Research) Center for Musculoskeletal Disorders webinar (Oct 2023).
 * "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", HIV Vaccine Trials Network (HVTN) weekly statistical group meeting (May 2022).
 * "Nonparametric inference for controlled effects in vaccine clinical trials under monotonicity", University of Washington Biostatistics Student Seminar (Jan 2023).
@@ -82,6 +84,8 @@ Updated August 21st, 2024.
 
 ### Mentorship
 
+* Jianxuan Zang (Duke Biostatistics PhD student), research rotation mentor (Fall 2024).
+* Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (Fall 2024).
 * Peer Mentor, University of Washington Biostatistics department (2019 – 2023).
 * Undergraduate Advisor, University of Washington School of Public Health (2021 -- 2022).
 
