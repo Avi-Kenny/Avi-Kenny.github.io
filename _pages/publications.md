@@ -9,10 +9,11 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Survival analysis using machine learning tools
 
+1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
-1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, …, Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
-1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine*, 42(9), 2024.
-1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
+1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, ..., Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
+1. Gilbert PB, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine*, 42(9), 2024.
+1. Gilbert PB, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
 1.	Huang Y, Hejazi NS, Blette B, ..., **Kenny A**, ..., Gilbert PB. Stochastic interventional vaccine efficacy and principal surrogate effect modification analyses of antibody markers as correlates of protection against symptomatic COVID-19 in the COVE mRNA-1273 trial. *Viruses*, 15(10), 2023.
 1. Benkeser D, Montefiori DC, McDermott AB, ..., **Kenny A**, ..., Gilbert PB. Comparing and combining antibody assays as correlates of protection against COVID-19 in the COVE mRNA-1273 vaccine efficacy trial. *Science Translational Medicine*, 15(692):eade90, 2023.
 1. Seaton K, Huang Y, ..., **Kenny A**, ..., Gilbert PB, Tomaras GD. Pharmacokinetic serum concentrations of VRC01 correlate with prevention of HIV-1 acquisition. *eBioMedicine*, 93(104590):1-15, 2023.
