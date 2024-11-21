@@ -52,6 +52,7 @@ Updated August 21st, 2024.
 
 * Biometrics
 * BMC Medical Research Methodology
+* Journal of the American Statistical Association
 * Journal of Causal Inference
 * Journal of Medical Internet Research
 * Nature Communications
