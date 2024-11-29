@@ -33,6 +33,8 @@ Below is a list of publications that have been published in peer-reviewed academ
 1. Downey J, McKenna AH, Mendin SF, Waters A, Dunbar N, Tehmeh LG, White E, Siedner MJ, Panjabi R Kraemer JD, **Kenny A**, Ly J, Bass J, Huang KN, Khan S, Uchtmann N, Agarwal A, Hirschhorn L. Measuring knowledge of community health workers at the last mile in Liberia: feasibility and results of clinical vignette assessments. *Global Health: Science and Practice*, 9(S1):S111-S121, 2021.
 1. White E, Downey J, Sathananthan V, Kanjee Z, **Kenny A**, Waters A, Rabinowich J, Raghavan M, Dorr L, Halder A, Nyumah J, Duokie D, Boima T, Panjabi R, Siedner MJ, Kraemer JD. A community health worker intervention to increase childhood disease treatment coverage in rural Liberia: a controlled before-and-after evaluation. *American Journal of Public Health*, 108(9):1252-1259, 2018.
 1. Luckow PW, **Kenny A**, White E, Ballard M, Dorr L, Erlandson K, Grant B, Johnson A, Lorenzen B, Mukherjee S, Ly J, McDaniel A, Nowine N, Sathananthan V, Sechler GA, Kraemer JD, Siedner MJ, Panjabi, R. Implementation research on community health workers' provision of maternal and child health services in rural Liberia. *Bulletin of the World Health Organization*, 95(2):113-120, 2017.
+1. Ly J, Sathananthan V, Griffiths T, Kanjee Z, **Kenny A**, Gordon N, Basu G, Battistoli D, Dorr L, Lorenzen B, Thompson DR, Waters A, Moore U, Roberts R, Smith W, Siedner MJ, Kraemer JD. Facility-based delivery during the Ebola virus disease epidemic in rural Liberia: analysis from a cross-sectional, population-based household survey. *PLoS Medicine*, 13(8):e1002096, 2016.
+1. Kentoffio K, Kraemer JD, Griffiths T, **Kenny A**, Panjabi R, Sechler GA, Selinsky S, Siedner MJ. Charting health system reconstruction in post-war Liberia: a comparison of rural vs. remote healthcare utilization. *BMC Health Services Research*, 16(1):1-9, 2016.
 1. **Kenny A**, Basu G, Ballard M, Griffiths T, Kentoffio K, Niyonzima JB, Sechler GA, Selinsky S, Panjabi R, Siedner MJ, Kraemer JD. Remoteness and maternal and child health service utilization in rural Liberia: a population-based survey. *Journal of Global Health*, 5(2):020401, 2015.
 
 ## Data collection and quality assurance
@@ -41,11 +43,13 @@ Below is a list of publications that have been published in peer-reviewed academ
 1. Bruzelius E, Le M, **Kenny A**, Downey J, Danieletto M, Baum A, Doupe P, Silva B, Landrigan P, Singh P. Satellite images and machine learning can identify remote communities to facilitate access to health services. *Journal of the American Medical Informatics Association*, 26(8-9):806-812, 2019.
 1. **Kenny A**, Gordon N, Griffiths T, Kraemer JD, Siedner MJ. Validation relaxation: a quality assurance strategy for electronic data collection. *Journal of Medical Internet Research*, 19(8):e297, 2017.
 
-## Miscellaneous
+## Miscellaneous: statistical methodology
 
+1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
 1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
+
+## Miscellaneous: other
+
 1. Berrondo C, Carone M, Katz C, **Kenny A**. Adherence to perioperative antibiotic prophylaxis recommendations and its impact on postoperative surgical site infections. *Cureus*, 14(6):e25859, 2022.
-1. Kentoffio K, Kraemer JD, Griffiths T, **Kenny A**, Panjabi R, Sechler GA, Selinsky S, Siedner MJ. Charting health system reconstruction in post-war Liberia: a comparison of rural vs. remote healthcare utilization. *BMC Health Services Research*, 16(1):1-9, 2016.
-1. Ly J, Sathananthan V, Griffiths T, Kanjee Z, **Kenny A**, Gordon N, Basu G, Battistoli D, Dorr L, Lorenzen B, Thompson DR, Waters A, Moore U, Roberts R, Smith W, Siedner MJ, Kraemer JD. Facility-based delivery during the Ebola virus disease epidemic in rural Liberia: analysis from a cross-sectional, population-based household survey. *PLoS Medicine*, 13(8):e1002096, 2016.

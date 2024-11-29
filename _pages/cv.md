@@ -103,6 +103,7 @@ Updated August 21st, 2024.
 
 ## 5. Publications
 
+1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
 1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effect varies by exposure time or calendar time. *arXiv:2409.14706*, 2024.
