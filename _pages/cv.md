@@ -55,6 +55,7 @@ Updated August 21st, 2024.
 * Journal of the American Statistical Association
 * Journal of Causal Inference
 * Journal of Medical Internet Research
+* Journal of the Royal Statistical Socieity: Series C
 * Nature Communications
 * Prevention Science
 * Statistics in Medicine
