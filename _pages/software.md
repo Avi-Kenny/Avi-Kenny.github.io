@@ -35,9 +35,15 @@ author_profile: true
   ![GitHub](https://img.shields.io/github/license/Avi-Kenny/SimEngine)
 <!-- badges: end -->
 
+## steppedwedge
+
+**steppedwedge** is an open-source R package designed for analyzing data from stepped wedge cluster randomized trials. Functions are given for checking/visualizing datasets and estimating various treatment effect parameters, including the immediate treatment effect (ITE), the time averaged treatment effect (TATE), and the point treatment effect (PTE). Package documentation can be found [here](https://avi-kenny.github.io/steppedwedge/).
+
+<hr style="height:1px;border:none;color:#333;background-color:#666;" />
+
 ## vaccine
 
-**vaccine** is an R package that contains various semiparametric and nonparametric statistical tools for immune correlates analysis of vaccine clinical trial data. This includes calculation of summary statistics and estimation of risk, vaccine efficacy, controlled risk, and controlled vaccine efficacy. A development version of this package can be found [here](https://github.com/Avi-Kenny/vaccine).
+**vaccine** is an R package that contains various semiparametric and nonparametric statistical tools for immune correlates analysis of vaccine clinical trial data. This includes calculation of summary statistics and estimation of risk, vaccine efficacy, controlled risk, and controlled vaccine efficacy. Package documentation can be found [here](https://avi-kenny.github.io/vaccine/).
 
 <hr style="height:1px;border:none;color:#333;background-color:#666;" />
 
