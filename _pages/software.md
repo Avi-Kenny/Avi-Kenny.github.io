@@ -28,11 +28,15 @@ author_profile: true
 
 <hr style="height:1px;border:none;color:#333;background-color:#666;" />
 
-<img src="/../images/logo_vaccine.png" align="right" width="150" />
+<img src="/../images/logo_steppedwedge.png" align="right" width="150" />
 
 <!-- badges: start -->
-  ![GitHub R package version](https://img.shields.io/github/r-package/v/Avi-Kenny/SimEngine)
-  ![GitHub](https://img.shields.io/github/license/Avi-Kenny/SimEngine)
+  ![GitHub R package version](https://img.shields.io/github/r-package/v/Avi-Kenny/steppedwedge)
+  [![CRAN status](https://www.r-pkg.org/badges/version/steppedwedge)](https://CRAN.R-project.org/package=steppedwedge)
+  ![GitHub](https://img.shields.io/github/license/Avi-Kenny/steppedwedge)
+  [![R-CMD-check](https://github.com/Avi-Kenny/steppedwedge/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/Avi-Kenny/steppedwedge/actions/workflows/R-CMD-check.yml)
+  [![Codecov test coverage](https://codecov.io/gh/Avi-Kenny/steppedwedge/branch/master/graph/badge.svg)](https://app.codecov.io/gh/Avi-Kenny/steppedwedge?branch=master)
+  [![](https://cranlogs.r-pkg.org/badges/steppedwedge)](https://CRAN.R-project.org/package=steppedwedge)
 <!-- badges: end -->
 
 ## steppedwedge
@@ -41,19 +45,19 @@ author_profile: true
 
 <hr style="height:1px;border:none;color:#333;background-color:#666;" />
 
+<img src="/../images/logo_vaccine.png" align="right" width="150" />
+
+<!-- badges: start -->
+  ![GitHub R package version](https://img.shields.io/github/r-package/v/Avi-Kenny/vaccine)
+  [![CRAN status](https://www.r-pkg.org/badges/version/vaccine)](https://CRAN.R-project.org/package=vaccine)
+  ![GitHub](https://img.shields.io/github/license/Avi-Kenny/vaccine)
+  [![R-CMD-check](https://github.com/Avi-Kenny/vaccine/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/Avi-Kenny/vaccine/actions/workflows/R-CMD-check.yml)
+  [![Codecov test coverage](https://codecov.io/gh/Avi-Kenny/vaccine/branch/master/graph/badge.svg)](https://app.codecov.io/gh/Avi-Kenny/vaccine?branch=master)
+  [![](https://cranlogs.r-pkg.org/badges/vaccine)](https://CRAN.R-project.org/package=vaccine)
+<!-- badges: end -->
+
 ## vaccine
 
 **vaccine** is an R package that contains various semiparametric and nonparametric statistical tools for immune correlates analysis of vaccine clinical trial data. This includes calculation of summary statistics and estimation of risk, vaccine efficacy, controlled risk, and controlled vaccine efficacy. Package documentation can be found [here](https://avi-kenny.github.io/vaccine/).
 
 <hr style="height:1px;border:none;color:#333;background-color:#666;" />
-
-<!-- 
-
-[![Avi-Kenny/SimEngine - GitHub](https://gh-card.dev/repos/Avi-Kenny/SimEngine.svg)](https://github.com/Avi-Kenny/SimEngine)
-[![Avi-Kenny/vaccine - GitHub](https://gh-card.dev/repos/Avi-Kenny/vaccine.svg)](https://github.com/Avi-Kenny/vaccine)
-
-- *SimEngine* (R package). An open-source framework for statistical simulations in R.
-- *vaccine* (R package). Tools for analysis of vaccine clinical trial data.
-- *Last Mile Data*. A comprehensive offline-capable data collection, analysis, and reporting platform built for Last Mile Health
-- *DADA-base*. An institutional knowledge and process automation platform built for Studio in a School.
--->
