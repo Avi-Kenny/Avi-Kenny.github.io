@@ -47,7 +47,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 ## Miscellaneous: statistical methodology
 
 1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
-1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
+1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
 

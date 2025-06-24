@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Biostatistics and Bioinformatics at Duke University, with a secondary appointment at the Duke Global Health Institute. I completed my PhD in biostatistics at the University of Washington under Dr. Marco Carone, and previously served as the Director of Research, Monitoring, and Evaluation at Last Mile Health. My research interests include:
+I am an Assistant Professor at Duke University, with appointments in the Department of Biostatistics & Bioinformatics and the Duke Global Health Institute. I completed my PhD in biostatistics at the University of Washington and previously served as the Director of Research, Monitoring, and Evaluation at Last Mile Health in Liberia. My current research interests include:
 
-* Statistical methods to handle treatment effect heterogeneity in stepped wedge cluster randomized trials
-* Survival analysis using machine learning tools
-* Global health program evaluation
+* Design and analysis of global health program evaluations
+* Statistical methodology for stepped wedge cluster randomized trials and interrupted time series analysis
+* Studying the use of psychedelic medicine for treating mental health conditions
 * Statistical computation and simulation methodology
-* Immune correlates of protection analysis in vaccine clinical trials
+* Implementation science around community health worker programs

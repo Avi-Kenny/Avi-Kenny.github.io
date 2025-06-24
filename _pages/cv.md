@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated March 17th, 2025.
+Updated May 22nd, 2025.
 
 ## 1. Education
 
@@ -36,6 +36,7 @@ Updated March 17th, 2025.
 
 ## 3. Teaching
 
+* Guest lecturer, GLHLTH 705, Duke University (March 2025).
 * Guest lecturer, Biostatistics 561, University of Washington (May 2023).
 * Instructor, Biostatistics 111, University of Washington (Apr 2020 – Jun 2020).
 * Guest lecturer, Biostatistics 572, University of Washington (Apr 2021).
@@ -88,9 +89,9 @@ Updated March 17th, 2025.
 
 * Jianxuan Zang (Duke Biostatistics PhD student), research rotation mentor (2024 -- 2015).
 * Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
-<!-- * Keying Sun (Duke Biostatistics Masters student), thesis advisor (2025). -->
 <!-- * Isabella Shubert (Duke Biostatistics Masters student), thesis advisor (2025). -->
-<!-- * Alexander Ross (Duke CRTP Masters student), thesis committee member (2025). -->
+* Alexander Ross (Duke CRTP Masters student), thesis committee member (2025).
+* Emily Niehaus (Duke CFAR Mentored Scholar), program mentor (2025).
 * Peer Mentor, University of Washington Biostatistics department (2019 – 2023).
 * Undergraduate Advisor, University of Washington School of Public Health (2021 -- 2022).
 
@@ -108,12 +109,12 @@ Updated March 17th, 2025.
 ## 5. Publications
 
 1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *arXiv:2503.11472*, 2025.
+1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
 1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
 1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effect varies by exposure time or calendar time. *arXiv:2409.14706*, 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, ..., Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
-1. **Kenny A**, Olivier S, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates. *arXiv:2408.07738*, 2024.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *arXiv:2407.04214*, 2024.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
@@ -147,6 +148,7 @@ Updated March 17th, 2025.
 
 ## 7. Software Development
 
+* *steppedwedge* (R package). An R package for analyzing data from stepped wedge cluster randomized trials.
 * *SimEngine* (R package). An open-source framework for statistical simulations in R.
 * *vaccine* (R package). Statistical tools for immune correlates analysis of vaccine clinical trial data.
 * Last Mile Data. A comprehensive offline-capable data collection, analysis, and reporting platform built for Last Mile Health
