@@ -36,7 +36,7 @@ Updated May 22nd, 2025.
 
 ## 3. Teaching
 
-* Guest lecturer, GLHLTH 705, Duke University (March 2025).
+* Guest lecturer, GLHLTH 707, Duke University (March 2025).
 * Guest lecturer, Biostatistics 561, University of Washington (May 2023).
 * Instructor, Biostatistics 111, University of Washington (Apr 2020 – Jun 2020).
 * Guest lecturer, Biostatistics 572, University of Washington (Apr 2021).
@@ -67,13 +67,15 @@ Updated May 22nd, 2025.
 
 ### Conference Presentations
 
-* "Time-varying treatment effects in mental health research", Duke Global Mental Health Conference (Oct 2024).
-* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Society for Clinical Trials Annual Meeting (May 2024).
-* "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings (Aug 2023).
-* "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", International AIDS Conference (Jul 2022).
+* "Connections between stepped wedge and interrupted time series designs", Advancing Cluster Randomized Trials, Prato, Italy (Jul 2025).
+* "Time-varying treatment effects in mental health research", Duke Global Mental Health Conference, Durham, NC (Oct 2024).
+* "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", Society for Clinical Trials Annual Meeting, Boston, MA (May 2024).
+* "Nonparametric inference for the controlled vaccine efficacy curve under the assumption of monotonicity", Joint Statistical Meetings, Toronto, Canada (Aug 2023).
+* "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", International AIDS Conference, Montreal, Canada (Jul 2022).
 
 ### Other Presentations
 
+* "Modeling HIV seroconversion and mortality trends in South Africa using a discrete survival model that accounts for interval-censored covariates", Duke CFAR Internship lecture Series (Jun 2024).
 * "Trends in Mortality among PLHIV in the Africa Health Research Institute Population Cohort, KwaZulu Natal", UNAIDS Reference Group on Estimates, Modelling, and Projection (Jul 2024).
 * "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", CLEAR (Clinical Learning, Evidence and Research) Center for Musculoskeletal Disorders webinar (Oct 2023).
 * "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", HIV Vaccine Trials Network (HVTN) weekly statistical group meeting (May 2022).
