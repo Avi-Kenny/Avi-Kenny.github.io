@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated May 22nd, 2025.
+Updated August 6th, 2025.
 
 ## 1. Education
 
@@ -110,6 +110,7 @@ Updated May 22nd, 2025.
 
 ## 5. Publications
 
+1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic All-Cause and HIV-Related Mortality in the Context of Dolutegravir Rollout in Rural South Africa: An Interrupted Time Series Analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
 1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *arXiv:2503.11472*, 2025.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
