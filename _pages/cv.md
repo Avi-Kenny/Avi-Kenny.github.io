@@ -89,9 +89,10 @@ Updated August 6th, 2025.
 
 ### Mentorship
 
-* Jianxuan Zang (Duke Biostatistics PhD student), research rotation mentor (2024 -- 2015).
+* Andrew Johnson (Duke Biostatistics Masters student), thesis chair (2025).
+* Qi Wang (Duke Biostatistics PhD student), dissertation co-chair (2025).
+* Jianxuan Zang (Duke Biostatistics PhD student), dissertation chair (2024 -- 2025).
 * Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
-<!-- * Isabella Shubert (Duke Biostatistics Masters student), thesis advisor (2025). -->
 * Alexander Ross (Duke CRTP Masters student), thesis committee member (2025).
 * Emily Niehaus (Duke CFAR Mentored Scholar), program mentor (2025).
 * Peer Mentor, University of Washington Biostatistics department (2019 – 2023).
@@ -99,8 +100,9 @@ Updated August 6th, 2025.
 
 ### Departmental Service
 
-* Student representative, Computing Policy Committee (2020 – 2021 and 2022 – 2023).
-* Student representative, Educational Policy and Teaching Evaluation Committee (2019 – 2020 and 2021 – 2022).
+* Co-chair, Data Subcommittee, DGHI Climate and Health Initiative (2024 -- 2025).
+* Student representative, Computing Policy Committee (2020 -- 2021 and 2022 -- 2023).
+* Student representative, Educational Policy and Teaching Evaluation Committee (2019 -- 2020 and 2021 –- 2022).
 * Trainer, “Intro to Running R Code on the Department Cluster” (Oct 2021 and Sep 2022).
 * Co-author, “Biostatistics Department Curriculum Feedback Survey” (May 2021).
 * Panelist, University of Washington School of Public Health Career Panel (Apr 2021).
@@ -110,7 +112,8 @@ Updated August 6th, 2025.
 
 ## 5. Publications
 
-1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic All-Cause and HIV-Related Mortality in the Context of Dolutegravir Rollout in Rural South Africa: An Interrupted Time Series Analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
+1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17-1, 2025.
+1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
 1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *arXiv:2503.11472*, 2025.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
@@ -120,7 +123,6 @@ Updated August 6th, 2025.
 1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effect varies by exposure time or calendar time. *arXiv:2409.14706*, 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, ..., Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
-1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *arXiv:2403.05698*, 2024.
 1. Jockers D, Ngafuan R, Baernighausen T, Kessley A, White EE, **Kenny A**, Kraemer JD, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pedersen J, Siedner MJ, Mendin S, Subah M, Hirschhorn LR. Under-five mortality before and after implementation of the Liberia National Community Health Assistant (NCHA) program: A study protocol. *PloS One*, 19(3):e0272172, 2024.
 1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* 42(9), 2024.
 1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.

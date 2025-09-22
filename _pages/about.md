@@ -13,5 +13,5 @@ I am an Assistant Professor at Duke University, with appointments in the Departm
 * Design and analysis of global health program evaluations
 * Statistical methodology for stepped wedge cluster randomized trials and interrupted time series analysis
 * Studying the use of psychedelic medicine for treating mental health conditions
+* Implementation science around community health programs
 * Statistical computation and simulation methodology
-* Implementation science around community health worker programs
