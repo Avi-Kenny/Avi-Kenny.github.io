@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated August 6th, 2025.
+Updated October 10th, 2025.
 
 ## 1. Education
 
@@ -112,6 +112,7 @@ Updated August 6th, 2025.
 
 ## 5. Publications
 
+1. Luedtke A, Fong Y, van der Laan L, ..., **Kenny A**, ..., Gilbert P. Immune correlates analysis of antibody responses against SARS-CoV-2 variants in the ENSEMBLE vaccine efficacy trial. *iScience*, o(113660), 2025.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17-1, 2025.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.

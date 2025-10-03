@@ -29,6 +29,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Survival analysis using machine learning tools
 
+1. Luedtke A, Fong Y, van der Laan L, ..., **Kenny A**, ..., Gilbert P. Immune correlates analysis of antibody responses against SARS-CoV-2 variants in the ENSEMBLE vaccine efficacy trial. *iScience*, o(113660), 2025.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, ..., Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
