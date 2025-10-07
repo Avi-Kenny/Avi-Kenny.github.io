@@ -89,12 +89,13 @@ Updated October 10th, 2025.
 
 ### Mentorship
 
+* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025).
 * Andrew Johnson (Duke Biostatistics Masters student), thesis chair (2025).
+* Emily Niehaus (Duke CFAR Mentored Scholar), program mentor (2025).
 * Qi Wang (Duke Biostatistics PhD student), dissertation co-chair (2025).
 * Jianxuan Zang (Duke Biostatistics PhD student), dissertation chair (2024 -- 2025).
 * Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
-* Alexander Ross (Duke CRTP Masters student), thesis committee member (2025).
-* Emily Niehaus (Duke CFAR Mentored Scholar), program mentor (2025).
+* Alexander Ross (Duke CRTP Masters student), thesis committee member (2024 -- 2025).
 * Peer Mentor, University of Washington Biostatistics department (2019 – 2023).
 * Undergraduate Advisor, University of Washington School of Public Health (2021 -- 2022).
 
