@@ -9,8 +9,8 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Stepped wedge cluster randomized trials
 
+1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effects vary by exposure time or calendar time. *Statistics in Medicine*, 40(20-22), 2025.
 1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *arXiv:2503.11472*, 2025.
-1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effect varies by exposure time or calendar time. *arXiv:2409.14706*, 2024.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. **Kenny A**, Voldal E, Xia F, Heagerty PJ, Hughes JP. Analysis of stepped wedge cluster randomized trials in the presence of a time-varying treatment effect. *Statistics in Medicine*, 41(22):4311-4339, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Random effect misspecification in stepped wedge designs. *Clinical Trials*, 19(4):380-383, 2022.
@@ -27,8 +27,9 @@ Below is a list of publications that have been published in peer-reviewed academ
 1. Kentoffio K, Kraemer JD, Griffiths T, **Kenny A**, Panjabi R, Sechler GA, Selinsky S, Siedner MJ. Charting health system reconstruction in post-war Liberia: a comparison of rural vs. remote healthcare utilization. *BMC Health Services Research*, 16(1):1-9, 2016.
 1. **Kenny A**, Basu G, Ballard M, Griffiths T, Kentoffio K, Niyonzima JB, Sechler GA, Selinsky S, Panjabi R, Siedner MJ, Kraemer JD. Remoteness and maternal and child health service utilization in rural Liberia: a population-based survey. *Journal of Global Health*, 5(2):020401, 2015.
 
-## Survival analysis using machine learning tools
+## Vaccine clinical trials
 
+1. Mkhize NN, Zhang B, Brackett C, ..., **Kenny A**, ..., Tomaras GD, Gilbert P. Neutralizing and binding antibodies are a correlate of risk of COVID-19 in the CoVPN 3008 study in people with HIV. *Nature Communications*, 16(1), 2025.
 1. Luedtke A, Fong Y, van der Laan L, ..., **Kenny A**, ..., Gilbert P. Immune correlates analysis of antibody responses against SARS-CoV-2 variants in the ENSEMBLE vaccine efficacy trial. *iScience*, o(113660), 2025.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
@@ -48,7 +49,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Miscellaneous: statistical methodology
 
-1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17-1, 2025.
+1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17(1), 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
 1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
