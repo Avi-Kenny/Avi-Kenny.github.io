@@ -114,6 +114,7 @@ Updated October 10th, 2025.
 
 ## 5. Publications
 
+1. Xia F, Chan KCG, Voldal E, **Kenny A**, Heagerty PJ, Hughes JP. Robust and Efficient Semiparametric Inference for the Stepped Wedge Design. *arXiv:2510.08972*, 2025.
 1. Mkhize NN, Zhang B, Brackett C, ..., **Kenny A**, ..., Tomaras GD, Gilbert P. Neutralizing and binding antibodies are a correlate of risk of COVID-19 in the CoVPN 3008 study in people with HIV. *Nature Communications*, 16(1), 2025.
 1. Luedtke A, Fong Y, van der Laan L, ..., **Kenny A**, ..., Gilbert P. Immune correlates analysis of antibody responses against SARS-CoV-2 variants in the ENSEMBLE vaccine efficacy trial. *iScience*, o(113660), 2025.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17(1), 2025.
