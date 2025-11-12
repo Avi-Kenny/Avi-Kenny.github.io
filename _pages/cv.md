@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated October 10th, 2025.
+Updated November 12th, 2025.
 
 ## 1. Education
 
@@ -114,6 +114,7 @@ Updated October 10th, 2025.
 
 ## 5. Publications
 
+1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
 1. Xia F, Chan KCG, Voldal E, **Kenny A**, Heagerty PJ, Hughes JP. Robust and Efficient Semiparametric Inference for the Stepped Wedge Design. *arXiv:2510.08972*, 2025.
 1. Mkhize NN, Zhang B, Brackett C, ..., **Kenny A**, ..., Tomaras GD, Gilbert P. Neutralizing and binding antibodies are a correlate of risk of COVID-19 in the CoVPN 3008 study in people with HIV. *Nature Communications*, 16(1), 2025.
 1. Luedtke A, Fong Y, van der Laan L, ..., **Kenny A**, ..., Gilbert P. Immune correlates analysis of antibody responses against SARS-CoV-2 variants in the ENSEMBLE vaccine efficacy trial. *iScience*, o(113660), 2025.

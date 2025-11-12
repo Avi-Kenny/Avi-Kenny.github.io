@@ -19,6 +19,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Global health evaluation and implementation science
 
+1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Jockers D, Ngafuan R, Baernighausen T, Kessley A, White EE, **Kenny A**, Kraemer JD, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pedersen J, Siedner MJ, Mendin S, Subah M, Hirschhorn LR. Under-five mortality before and after implementation of the Liberia National Community Health Assistant (NCHA) program: A study protocol. *PloS One*, 19(3):e0272172, 2024.
 1. Downey J, McKenna AH, Mendin SF, Waters A, Dunbar N, Tehmeh LG, White E, Siedner MJ, Panjabi R Kraemer JD, **Kenny A**, Ly J, Bass J, Huang KN, Khan S, Uchtmann N, Agarwal A, Hirschhorn L. Measuring knowledge of community health workers at the last mile in Liberia: feasibility and results of clinical vignette assessments. *Global Health: Science and Practice*, 9(S1):S111-S121, 2021.
