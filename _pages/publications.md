@@ -31,6 +31,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Vaccine clinical trials
 
+1. **Kenny A**, van der Laan L, Gilbert P, Carone M. Inference on Controlled Effects for Assessing Immune Correlates of Protection Based on a Cox Model. *Statistics in Medicine*, e70347, 2025.
 1. Mkhize NN, Zhang B, Brackett C, ..., **Kenny A**, ..., Tomaras GD, Gilbert P. Neutralizing and binding antibodies are a correlate of risk of COVID-19 in the CoVPN 3008 study in people with HIV. *Nature Communications*, 16(1), 2025.
 1. Luedtke A, Fong Y, van der Laan L, ..., **Kenny A**, ..., Gilbert P. Immune correlates analysis of antibody responses against SARS-CoV-2 variants in the ENSEMBLE vaccine efficacy trial. *iScience*, o(113660), 2025.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
