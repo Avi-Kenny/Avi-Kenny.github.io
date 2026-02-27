@@ -19,6 +19,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Global health evaluation and implementation science
 
+1. Ibemere SO, Carroll Y, **Kenny A**, Corley P, Day SW, Odesina V, Okonkwo P, Powell-Roach K, Sylvestre C, Jaja C. Nursing Without Borders: Culturally Tailoring A US SCD Nursing Excellence Train-The-Trainer Bootcamp Model for Nurses in Nigeria and Across Africa. *Journal of Sickle Cell Disease*, yoag010, 2026.
 1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Jockers D, Ngafuan R, Baernighausen T, Kessley A, White EE, **Kenny A**, Kraemer JD, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pedersen J, Siedner MJ, Mendin S, Subah M, Hirschhorn LR. Under-five mortality before and after implementation of the Liberia National Community Health Assistant (NCHA) program: A study protocol. *PloS One*, 19(3):e0272172, 2024.

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated December 10th, 2025.
+Updated February 26th, 2026.
 
 ## 1. Education
 
@@ -114,6 +114,7 @@ Updated December 10th, 2025.
 
 ## 5. Publications
 
+1. Ibemere SO, Carroll Y, **Kenny A**, Corley P, Day SW, Odesina V, Okonkwo P, Powell-Roach K, Sylvestre C, Jaja C. Nursing Without Borders: Culturally Tailoring A US SCD Nursing Excellence Train-The-Trainer Bootcamp Model for Nurses in Nigeria and Across Africa. *Journal of Sickle Cell Disease*, yoag010, 2026.
 1. **Kenny A**, van der Laan L, Gilbert P, Carone M. Inference on Controlled Effects for Assessing Immune Correlates of Protection Based on a Cox Model. *Statistics in Medicine*, e70347, 2025.
 1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
 1. Xia F, Chan KCG, Voldal E, **Kenny A**, Heagerty PJ, Hughes JP. Robust and Efficient Semiparametric Inference for the Stepped Wedge Design. *arXiv:2510.08972*, 2025.
