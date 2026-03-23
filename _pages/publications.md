@@ -9,9 +9,9 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Stepped wedge cluster randomized trials
 
+1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *Trials*, oneline ahead of print, 2026.
 1. Xia F, Chan KCG, Voldal E, **Kenny A**, Heagerty PJ, Hughes JP. Robust and Efficient Semiparametric Inference for the Stepped Wedge Design. *arXiv:2510.08972*, 2025.
 1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effects vary by exposure time or calendar time. *Statistics in Medicine*, 40(20-22), 2025.
-1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *arXiv:2503.11472*, 2025.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. **Kenny A**, Voldal E, Xia F, Heagerty PJ, Hughes JP. Analysis of stepped wedge cluster randomized trials in the presence of a time-varying treatment effect. *Statistics in Medicine*, 41(22):4311-4339, 2022.
 1. Voldal E, Xia F, **Kenny A**, Heagerty PJ, Hughes JP. Random effect misspecification in stepped wedge designs. *Clinical Trials*, 19(4):380-383, 2022.
@@ -19,6 +19,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Global health evaluation and implementation science
 
+1. De Zoysa PDWD, Weerasinghe SA, Gamage J, Iglesias-Ussel MD, Olague S, Obale A, Gallis JA, Palangasinghe D, Senadheera B, Vasana S, Nix C, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Kurukulasooriya MRP, Premamali M, Dilshan UHBY, Ngocho J, Østbye T, Laber EB, Watt MH, Myers E, Woods CW, Naggie S, **Kenny A**, Chakraborty H, Tillekeratne LG. TREATment of Lower Respiratory Tract Infection in Selected Hospitals in Southern Sri Lanka (TREAT-SL): study protocol for a stepped-wedge, cluster-randomized clinical trial. *Trials*, online ahead of print, 2026.
 1. Ibemere SO, Carroll Y, **Kenny A**, Corley P, Day SW, Odesina V, Okonkwo P, Powell-Roach K, Sylvestre C, Jaja C. Nursing Without Borders: Culturally Tailoring A US SCD Nursing Excellence Train-The-Trainer Bootcamp Model for Nurses in Nigeria and Across Africa. *Journal of Sickle Cell Disease*, yoag010, 2026.
 1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.

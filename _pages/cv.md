@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated February 26th, 2026.
+Updated March 23th, 2026.
 
 ## 1. Education
 
@@ -36,7 +36,9 @@ Updated February 26th, 2026.
 
 ## 3. Teaching
 
-* Guest lecturer, GLHLTH 707, Duke University (March 2025).
+* Guest lecturer, GLHLTH 755, Duke University (Feb 2026).
+* Guest lecturer, GLHLTH 499, Duke University (Oct 2025).
+* Guest lecturer, GLHLTH 707, Duke University (Mar 2025).
 * Guest lecturer, Biostatistics 561, University of Washington (May 2023).
 * Instructor, Biostatistics 111, University of Washington (Apr 2020 – Jun 2020).
 * Guest lecturer, Biostatistics 572, University of Washington (Apr 2021).
@@ -75,7 +77,11 @@ Updated February 26th, 2026.
 
 ### Other Presentations
 
-* "Modeling HIV seroconversion and mortality trends in South Africa using a discrete survival model that accounts for interval-censored covariates", Duke CFAR Internship lecture Series (Jun 2024).
+* "Review of electronic data collection systems for global health research", Duke Global Health Institute: Research Town Hall (Mar 2026).
+* "Introduction to cluster randomized trials", Duke Clinical Research Institute: Scientific Sessions (Feb 2026).
+* "Modeling HIV seroconversion and mortality trends in South Africa in the presence of interval-censored HIV testing data", Duke Center for AIDS Research: Monthly Seminar (Jan 2026).
+* "Modeling HIV seroconversion and mortality trends in South Africa using a discrete survival model that accounts for interval-censored covariates", Biostatistics, Epidemiology, and Research Design (BERD) Core Seminar (Sep 2025).
+* "Modeling HIV seroconversion and mortality trends in South Africa using a discrete survival model that accounts for interval-censored covariates", Duke Center for AIDS Research: Internship lecture Series (Jun 2024).
 * "Trends in Mortality among PLHIV in the Africa Health Research Institute Population Cohort, KwaZulu Natal", UNAIDS Reference Group on Estimates, Modelling, and Projection (Jul 2024).
 * "Analysis of stepped wedge cluster randomized trials in the presence of a time‐varying treatment effect", CLEAR (Clinical Learning, Evidence and Research) Center for Musculoskeletal Disorders webinar (Oct 2023).
 * "Immune correlates analysis of the Imbokodo HIV-1 vaccine efficacy trial", HIV Vaccine Trials Network (HVTN) weekly statistical group meeting (May 2022).
@@ -89,11 +95,15 @@ Updated February 26th, 2026.
 
 ### Mentorship
 
-* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025).
-* Andrew Johnson (Duke Biostatistics Masters student), thesis chair (2025).
-* Emily Niehaus (Duke CFAR Mentored Scholar), research mentor (2025).
-* Qi Wang (Duke Biostatistics PhD student), dissertation co-chair (2025).
-* Jianxuan Zang (Duke Biostatistics PhD student), dissertation chair (2024 -- 2025).
+* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025 -- 2026).
+* Qi Wang (Duke Biostatistics PhD student), dissertation co-chair (2025 -- 2026).
+* Jianxuan Zang (Duke Biostatistics PhD student), dissertation chair (2024 -- 2026).
+* Zahra Khan (Duke Biostatistics Masters student), thesis chair (2026).
+* JT Rapp (Duke Biostatistics Masters student), thesis chair (2026).
+* Anand Panigraphy (Duke Biostatistics Masters student), thesis chair (2026).
+* Andrew Johnson (Duke Biostatistics Masters student), thesis chair (2025 -- 2026).
+* Gehui Zhou (Duke Biostatistics Masters student), thesis chair (2025 -- 2026).
+* Emily Niehaus (Duke CFAR Mentored Scholar), research mentor (2025 -- 2026).
 * Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
 * Isabella Shubert (Duke Biostatistics Masters student), research mentor (2024 -- 2025).
 * Alexander Ross (Duke CRTP Masters student), thesis committee member (2024 -- 2025).
@@ -102,7 +112,7 @@ Updated February 26th, 2026.
 
 ### Departmental Service
 
-* Co-chair, Data Subcommittee, DGHI Climate and Health Initiative (2024 -- 2025).
+* Co-chair, Data Subcommittee, DGHI Climate and Health Initiative (2024 -- 2026).
 * Student representative, Computing Policy Committee (2020 -- 2021 and 2022 -- 2023).
 * Student representative, Educational Policy and Teaching Evaluation Committee (2019 -- 2020 and 2021 –- 2022).
 * Trainer, “Intro to Running R Code on the Department Cluster” (Oct 2021 and Sep 2022).
@@ -114,6 +124,8 @@ Updated February 26th, 2026.
 
 ## 5. Publications
 
+1. De Zoysa PDWD, Weerasinghe SA, Gamage J, Iglesias-Ussel MD, Olague S, Obale A, Gallis JA, Palangasinghe D, Senadheera B, Vasana S, Nix C, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Kurukulasooriya MRP, Premamali M, Dilshan UHBY, Ngocho J, Østbye T, Laber EB, Watt MH, Myers E, Woods CW, Naggie S, **Kenny A**, Chakraborty H, Tillekeratne LG. TREATment of Lower Respiratory Tract Infection in Selected Hospitals in Southern Sri Lanka (TREAT-SL): study protocol for a stepped-wedge, cluster-randomized clinical trial. *Trials*, online ahead of print, 2026.
+1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *Trials*, oneline ahead of print, 2026.
 1. Ibemere SO, Carroll Y, **Kenny A**, Corley P, Day SW, Odesina V, Okonkwo P, Powell-Roach K, Sylvestre C, Jaja C. Nursing Without Borders: Culturally Tailoring A US SCD Nursing Excellence Train-The-Trainer Bootcamp Model for Nurses in Nigeria and Across Africa. *Journal of Sickle Cell Disease*, yoag010, 2026.
 1. **Kenny A**, van der Laan L, Gilbert P, Carone M. Inference on Controlled Effects for Assessing Immune Correlates of Protection Based on a Cox Model. *Statistics in Medicine*, e70347, 2025.
 1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
@@ -124,7 +136,6 @@ Updated February 26th, 2026.
 1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effects vary by exposure time or calendar time. *Statistics in Medicine*, 40(20-22), 2025.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
-1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *arXiv:2503.11472*, 2025.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
 1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
