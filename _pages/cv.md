@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated March 23th, 2026.
+Updated April 1, 2026.
 
 ## 1. Education
 
@@ -77,6 +77,7 @@ Updated March 23th, 2026.
 
 ### Other Presentations
 
+* "Harmonizing Data Elements and Measurement Standards", NIH Workshop on Rapid-Acting Psychopharmacologic Interventions: From Evidence to Implementation, Remote (March 2026)
 * "Review of electronic data collection systems for global health research", Duke Global Health Institute: Research Town Hall (Mar 2026).
 * "Introduction to cluster randomized trials", Duke Clinical Research Institute: Scientific Sessions (Feb 2026).
 * "Modeling HIV seroconversion and mortality trends in South Africa in the presence of interval-censored HIV testing data", Duke Center for AIDS Research: Monthly Seminar (Jan 2026).
@@ -124,8 +125,10 @@ Updated March 23th, 2026.
 
 ## 5. Publications
 
+1. Freeman NLB, Yu C, Hoch M, Browder SE, Hammill BG, **Kenny A**, Anstrom KJ, Kosorok MR. A Review of Methods and Practices for Missing Data in Sequential Multiple Assignment Randomized Trials (SMARTs): An Ancillary Study of a Scoping Review. *arXiv:2604.23866*, 2026.
+1. Palangasinghe DR, Dilshan UHBY, De Zoysa WD, Gamage Y, Iglesias-Ussel MD, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Olague S, Kurukulasooriya MRP, Weerasinghe SA, Premamali MHM, Ngocho JS, Obale A, Chakraborty H, Østbye T, **Kenny A**, Gallis JA, Laber EB, Naggie S, Woods CW, Myers E, Tillekeratne LG, Watt MH. Perspectives from Sri Lankan physicians on current approaches to diagnosing and managing lower respiratory tract infections. *BMC Research Notes*, 19(143), 2026.
 1. De Zoysa PDWD, Weerasinghe SA, Gamage J, Iglesias-Ussel MD, Olague S, Obale A, Gallis JA, Palangasinghe D, Senadheera B, Vasana S, Nix C, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Kurukulasooriya MRP, Premamali M, Dilshan UHBY, Ngocho J, Østbye T, Laber EB, Watt MH, Myers E, Woods CW, Naggie S, **Kenny A**, Chakraborty H, Tillekeratne LG. TREATment of Lower Respiratory Tract Infection in Selected Hospitals in Southern Sri Lanka (TREAT-SL): study protocol for a stepped-wedge, cluster-randomized clinical trial. *Trials*, online ahead of print, 2026.
-1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *Trials*, oneline ahead of print, 2026.
+1. **Kenny A**, Voldal EC, Xia F, Chan KCG, Heagerty PJ, Hughes JP. Factors affecting power in stepped wedge trials when the treatment effect varies with time. *Trials*, 27(241), 2026.
 1. Ibemere SO, Carroll Y, **Kenny A**, Corley P, Day SW, Odesina V, Okonkwo P, Powell-Roach K, Sylvestre C, Jaja C. Nursing Without Borders: Culturally Tailoring A US SCD Nursing Excellence Train-The-Trainer Bootcamp Model for Nurses in Nigeria and Across Africa. *Journal of Sickle Cell Disease*, yoag010, 2026.
 1. **Kenny A**, van der Laan L, Gilbert P, Carone M. Inference on Controlled Effects for Assessing Immune Correlates of Protection Based on a Cox Model. *Statistics in Medicine*, e70347, 2025.
 1. Fiori KP, Levano SR, Haughton J, Dabla D, **Kenny A**, Badohoun K, Miziou EA, Lauria ME, Lemberg M, Agoro S, Schechter J, Gbeleou S, Jones HE, Ekouevi DK, Hirschhorn LR. Reducing Child Mortality in Togo With an Integrated Primary Care Program: A Cluster Randomized Clinical Trial. *Pediatrics*, e2025071345, 2025.
