@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated April 1, 2026.
+Updated June 2, 2026.
 
 ## 1. Education
 
@@ -125,6 +125,8 @@ Updated April 1, 2026.
 
 ## 5. Publications
 
+1. **Kenny A**, Siedner MJ, Kraemer JD, Bonds MH, Fiori K, Citrin D, Musa AZ, Razanadranaivo H, Ogbuoji O, Yamey G. Evaluating global health programmes targeting under-5 mortality: problems and recommendations. *BMJ Global Health*, 11(e022958), 2026.
+1. Niehaus E, **Kenny A**, Burns C, McKellar M, Frye J, Okeke NL. Early Implementation of Doxycycline Post-Exposure Prophylaxis at an Infectious Diseases Clinic in the Southern United States. *AIDS Patient Care and STDs*, (accepted), 2026.
 1. Freeman NLB, Yu C, Hoch M, Browder SE, Hammill BG, **Kenny A**, Anstrom KJ, Kosorok MR. A Review of Methods and Practices for Missing Data in Sequential Multiple Assignment Randomized Trials (SMARTs): An Ancillary Study of a Scoping Review. *arXiv:2604.23866*, 2026.
 1. Palangasinghe DR, Dilshan UHBY, De Zoysa WD, Gamage Y, Iglesias-Ussel MD, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Olague S, Kurukulasooriya MRP, Weerasinghe SA, Premamali MHM, Ngocho JS, Obale A, Chakraborty H, Østbye T, **Kenny A**, Gallis JA, Laber EB, Naggie S, Woods CW, Myers E, Tillekeratne LG, Watt MH. Perspectives from Sri Lankan physicians on current approaches to diagnosing and managing lower respiratory tract infections. *BMC Research Notes*, 19(143), 2026.
 1. De Zoysa PDWD, Weerasinghe SA, Gamage J, Iglesias-Ussel MD, Olague S, Obale A, Gallis JA, Palangasinghe D, Senadheera B, Vasana S, Nix C, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Kurukulasooriya MRP, Premamali M, Dilshan UHBY, Ngocho J, Østbye T, Laber EB, Watt MH, Myers E, Woods CW, Naggie S, **Kenny A**, Chakraborty H, Tillekeratne LG. TREATment of Lower Respiratory Tract Infection in Selected Hospitals in Southern Sri Lanka (TREAT-SL): study protocol for a stepped-wedge, cluster-randomized clinical trial. *Trials*, online ahead of print, 2026.
