@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated June 2, 2026.
+Updated June 7, 2026.
 
 ## 1. Education
 
@@ -125,6 +125,7 @@ Updated June 2, 2026.
 
 ## 5. Publications
 
+1. Goldstein CE, Armond ACV, Cobey KD, Voldal EC, Chen Y, Tingley K, Shaw JF, Heagerty PJ, Hemming K, **Kenny A**, Li F, Ouyang Y, Xia F, Moher D, Hughes JP, Taljaard M. Data sharing in stepped-wedge cluster randomized trials: suboptimal data availability despite "data available upon request". *Journal of Clinical Epidemiology*, 112353, 2026.
 1. **Kenny A**, Siedner MJ, Kraemer JD, Bonds MH, Fiori K, Citrin D, Musa AZ, Razanadranaivo H, Ogbuoji O, Yamey G. Evaluating global health programmes targeting under-5 mortality: problems and recommendations. *BMJ Global Health*, 11(e022958), 2026.
 1. Niehaus E, **Kenny A**, Burns C, McKellar M, Frye J, Okeke NL. Early Implementation of Doxycycline Post-Exposure Prophylaxis at an Infectious Diseases Clinic in the Southern United States. *AIDS Patient Care and STDs*, (accepted), 2026.
 1. Freeman NLB, Yu C, Hoch M, Browder SE, Hammill BG, **Kenny A**, Anstrom KJ, Kosorok MR. A Review of Methods and Practices for Missing Data in Sequential Multiple Assignment Randomized Trials (SMARTs): An Ancillary Study of a Scoping Review. *arXiv:2604.23866*, 2026.
