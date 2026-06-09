@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated June 7, 2026.
+Updated June 9, 2026.
 
 ## 1. Education
 
@@ -125,6 +125,7 @@ Updated June 7, 2026.
 
 ## 5. Publications
 
+1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *International Journal of Epidemiology*, (accepted), 2026.
 1. Goldstein CE, Armond ACV, Cobey KD, Voldal EC, Chen Y, Tingley K, Shaw JF, Heagerty PJ, Hemming K, **Kenny A**, Li F, Ouyang Y, Xia F, Moher D, Hughes JP, Taljaard M. Data sharing in stepped-wedge cluster randomized trials: suboptimal data availability despite "data available upon request". *Journal of Clinical Epidemiology*, 112353, 2026.
 1. **Kenny A**, Siedner MJ, Kraemer JD, Bonds MH, Fiori K, Citrin D, Musa AZ, Razanadranaivo H, Ogbuoji O, Yamey G. Evaluating global health programmes targeting under-5 mortality: problems and recommendations. *BMJ Global Health*, 11(e022958), 2026.
 1. Niehaus E, **Kenny A**, Burns C, McKellar M, Frye J, Okeke NL. Early Implementation of Doxycycline Post-Exposure Prophylaxis at an Infectious Diseases Clinic in the Southern United States. *AIDS Patient Care and STDs*, (accepted), 2026.
@@ -143,7 +144,6 @@ Updated June 7, 2026.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
-1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *arXiv:2411.17905*, 2024.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, ..., Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
