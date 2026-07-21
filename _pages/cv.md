@@ -77,6 +77,7 @@ Updated June 9, 2026.
 
 ### Other Presentations
 
+* "Analysis of stepped wedge cluster randomized trials in the presence of time-varying treatment effects", Australia Trials Methodology Cluster Trials Special Interest Group meeting, Remote (July 2026)
 * "Harmonizing Data Elements and Measurement Standards", NIH Workshop on Rapid-Acting Psychopharmacologic Interventions: From Evidence to Implementation, Remote (March 2026)
 * "Review of electronic data collection systems for global health research", Duke Global Health Institute: Research Town Hall (Mar 2026).
 * "Introduction to cluster randomized trials", Duke Clinical Research Institute: Scientific Sessions (Feb 2026).
@@ -96,20 +97,29 @@ Updated June 9, 2026.
 
 ### Mentorship
 
-* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025 -- 2026).
+#### PhD students
+
+* Kelly Perry (PhD student, environmental science), dissertation committee member (2026 – Present)
 * Qi Wang (Duke Biostatistics PhD student), dissertation co-chair (2025 -- 2026).
 * Jianxuan Zang (Duke Biostatistics PhD student), dissertation chair (2024 -- 2026).
+* Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
+
+#### Masters students
+
 * Zahra Khan (Duke Biostatistics Masters student), thesis chair (2026).
 * JT Rapp (Duke Biostatistics Masters student), thesis chair (2026).
 * Anand Panigraphy (Duke Biostatistics Masters student), thesis chair (2026).
 * Andrew Johnson (Duke Biostatistics Masters student), thesis chair (2025 -- 2026).
 * Gehui Zhou (Duke Biostatistics Masters student), thesis chair (2025 -- 2026).
-* Emily Niehaus (Duke CFAR Mentored Scholar), research mentor (2025 -- 2026).
-* Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
 * Isabella Shubert (Duke Biostatistics Masters student), research mentor (2024 -- 2025).
 * Alexander Ross (Duke CRTP Masters student), thesis committee member (2024 -- 2025).
 * Peer Mentor, University of Washington Biostatistics department (2019 – 2023).
 * Undergraduate Advisor, University of Washington School of Public Health (2021 -- 2022).
+
+#### Other
+
+* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025 -- 2026).
+* Emily Niehaus (Duke CFAR Mentored Scholar), research mentor (2025 -- 2026).
 
 ### Departmental Service
 
@@ -125,7 +135,7 @@ Updated June 9, 2026.
 
 ## 5. Publications
 
-1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *International Journal of Epidemiology*, (accepted), 2026.
+1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *International Journal of Epidemiology*, 55(4), 2026.
 1. Goldstein CE, Armond ACV, Cobey KD, Voldal EC, Chen Y, Tingley K, Shaw JF, Heagerty PJ, Hemming K, **Kenny A**, Li F, Ouyang Y, Xia F, Moher D, Hughes JP, Taljaard M. Data sharing in stepped-wedge cluster randomized trials: suboptimal data availability despite "data available upon request". *Journal of Clinical Epidemiology*, 112353, 2026.
 1. **Kenny A**, Siedner MJ, Kraemer JD, Bonds MH, Fiori K, Citrin D, Musa AZ, Razanadranaivo H, Ogbuoji O, Yamey G. Evaluating global health programmes targeting under-5 mortality: problems and recommendations. *BMJ Global Health*, 11(e022958), 2026.
 1. Niehaus E, **Kenny A**, Burns C, McKellar M, Frye J, Okeke NL. Early Implementation of Doxycycline Post-Exposure Prophylaxis at an Infectious Diseases Clinic in the Southern United States. *AIDS Patient Care and STDs*, (accepted), 2026.
