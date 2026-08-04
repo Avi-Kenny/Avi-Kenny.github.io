@@ -20,6 +20,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Global health evaluation and implementation science
 
+1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, qlag044, 2026.
 1. **Kenny A**, Siedner MJ, Kraemer JD, Bonds MH, Fiori K, Citrin D, Musa AZ, Razanadranaivo H, Ogbuoji O, Yamey G. Evaluating global health programmes targeting under-5 mortality: problems and recommendations. *BMJ Global Health*, 11(e022958), 2026.
 1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *International Journal of Epidemiology*, 55(4), 2026.
 1. Palangasinghe DR, Dilshan UHBY, De Zoysa WD, Gamage Y, Iglesias-Ussel MD, Bodinayake CK, Nagahawatte ADS, Wijayaratne WMDGB, Olague S, Kurukulasooriya MRP, Weerasinghe SA, Premamali MHM, Ngocho JS, Obale A, Chakraborty H, Østbye T, **Kenny A**, Gallis JA, Laber EB, Naggie S, Woods CW, Myers E, Tillekeratne LG, Watt MH. Perspectives from Sri Lankan physicians on current approaches to diagnosing and managing lower respiratory tract infections. *BMC Research Notes*, 19(143), 2026.
@@ -61,7 +62,6 @@ Below is a list of publications that have been published in peer-reviewed academ
 1. Freeman NLB, Yu C, Hoch M, Browder SE, Hammill BG, **Kenny A**, Anstrom KJ, Kosorok MR. A Review of Methods and Practices for Missing Data in Sequential Multiple Assignment Randomized Trials (SMARTs): An Ancillary Study of a Scoping Review. *arXiv:2604.23866*, 2026.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17(1), 2025.
 1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
-1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *arXiv:2408.07738*, 2025.
 
 ## Miscellaneous: other
 
