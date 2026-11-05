@@ -20,7 +20,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 ## Global health evaluation and implementation science
 
-1. Obaje HI, White EE, Dennis M, Jockers D, Barnighausen T, **Kenny A**, Rozelle JW, Karlay RG, Mendin SF, Tehmeh LG, Varpilah B, Grant B, Subah M, Harris R, Wiah SO, Dunbar N, Wesseh CS, Hirschhorn LR, Siedner MJ, Kraemer JD. Early impact of the Liberian National Community Assistant Health Program on under-five mortality in Grand Bassa County: A non-randomized stepped wedge evaluation. *PLOS Global Public Health*, (accepted), 2026.
+1. Obaje HI, White EE, Dennis M, Jockers D, Barnighausen T, **Kenny A**, Rozelle JW, Karlay RG, Mendin SF, Tehmeh LG, Varpilah B, Grant B, Subah M, Harris R, Wiah SO, Dunbar N, Wesseh CS, Hirschhorn LR, Siedner MJ, Kraemer JD. Early impact of the Liberian National Community Assistant Health Program on under-five mortality in Grand Bassa County: A non-randomized stepped wedge evaluation. *PLOS Global Public Health*, 6(9): e0005681, 2026.
 1. Salako A, Musa Z, ..., **Kenny A**, ..., Ezechi O, Salako B. Safety, antimicrobial resistance and implementation of azithromycin mass drug administration among children aged 1-59 months in Nigeria: protocol for a hybrid type II effectiveness-implementation study. *VeriXiv*, 3(267), 2026.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, qlag044, 2026.
 1. **Kenny A**, Siedner MJ, Kraemer JD, Bonds MH, Fiori K, Citrin D, Musa AZ, Razanadranaivo H, Ogbuoji O, Yamey G. Evaluating global health programmes targeting under-5 mortality: problems and recommendations. *BMJ Global Health*, 11(e022958), 2026.
@@ -63,7 +63,7 @@ Below is a list of publications that have been published in peer-reviewed academ
 
 1. Freeman NLB, Yu C, Hoch M, Browder SE, Hammill BG, **Kenny A**, Anstrom KJ, Kosorok MR. A Review of Methods and Practices for Missing Data in Sequential Multiple Assignment Randomized Trials (SMARTs): An Ancillary Study of a Scoping Review. *arXiv:2604.23866*, 2026.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17(1), 2025.
-1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
+1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 36(5), 2025.
 
 ## Miscellaneous: other
 

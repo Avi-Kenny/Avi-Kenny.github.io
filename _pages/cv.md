@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated September 14, 2026.
+Updated October 12, 2026.
 
 ## 1. Education
 
@@ -100,31 +100,34 @@ Updated September 14, 2026.
 
 #### PhD students
 
+* Konnor Herbst (PhD student, biostatistics), research rotation mentor (2024).
+* Jianxuan Zang (PhD student, biostatistics), dissertation chair (2024 – Present).
+* Qi Wang (PhD student, biostatistics), dissertation co-chair (2025 – Present).
 * Kelly Perry (PhD student, environmental science), dissertation committee member (2026 – Present)
-* Qi Wang (Duke Biostatistics PhD student), dissertation co-chair (2025 -- 2026).
-* Jianxuan Zang (Duke Biostatistics PhD student), dissertation chair (2024 -- 2026).
-* Konnor Herbst (Duke Biostatistics PhD student), research rotation mentor (2024).
 
 #### Masters students
 
-* Zahra Khan (Duke Biostatistics Masters student), thesis chair (2026).
-* JT Rapp (Duke Biostatistics Masters student), thesis chair (2026).
-* Anand Panigraphy (Duke Biostatistics Masters student), thesis chair (2026).
-* Andrew Johnson (Duke Biostatistics Masters student), thesis chair (2025 -- 2026).
-* Gehui Zhou (Duke Biostatistics Masters student), thesis chair (2025 -- 2026).
-* Isabella Shubert (Duke Biostatistics Masters student), research mentor (2024 -- 2025).
-* Alexander Ross (Duke CRTP Masters student), thesis committee member (2024 -- 2025).
-* Peer Mentor, University of Washington Biostatistics department (2019 – 2023).
-* Undergraduate Advisor, University of Washington School of Public Health (2021 -- 2022).
+* Alexander Ross (Master’s student, CRTP), committee member (2024 – 2025).
+* Isabella Shubert (Master's student, biostatistics), research mentor (2025).
+* Morgan O’Loughlin (Master’s student, global health), committee member (2025 – 2026).
+* Andrew Johnson (Master's student, biostatistics), thesis chair (2025 – Present).
+* Gehui Zhou (Master’s student, biostatistics), thesis chair (2025 – Present).
+* Zada Tiimob (Master’s student, biostatistics), committee member (2025 – 2026).
+* Zahra Khan (Master’s student, biostatistics), thesis chair (2026 – Present).
+* JT Rapp (Master’s student, biostatistics), thesis chair (2026 – Present).
+* Anand Panigraphy (Master’s student, biostatistics), thesis chair (2026 – Present).
+* Maria Morales Mejia (Master’s student, global health), committee member (2026 – 2027).
 
 #### Other
 
-* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025 -- 2026).
-* Emily Niehaus (Duke CFAR Mentored Scholar), research mentor (2025 -- 2026).
+* Neelima Navaluri (Assistant Professor, Duke Global Health Institute), NIH NHLBI K23 award mentor (2025 – Present).
+* Emily Niehaus (Duke CFAR Mentored Scholar), research mentor (2025 – Present).
 
 ### Departmental Service
 
-* Co-chair, Data Subcommittee, DGHI Climate and Health Initiative (2024 -- 2026).
+* Member, Master's Admissions Committee, Duke Global Health Institute (2026 -- 2027).
+* Member, Digital Programs Working Group, Duke Global Health Institute (2026).
+* Co-chair, Data Subcommittee, Climate and Global Health Initiative, Duke Global Health Institute (2024 -- 2026).
 * Student representative, Computing Policy Committee (2020 -- 2021 and 2022 -- 2023).
 * Student representative, Educational Policy and Teaching Evaluation Committee (2019 -- 2020 and 2021 –- 2022).
 * Trainer, “Intro to Running R Code on the Department Cluster” (Oct 2021 and Sep 2022).
@@ -136,7 +139,7 @@ Updated September 14, 2026.
 
 ## 5. Publications
 
-1. Obaje HI, White EE, Dennis M, Jockers D, Barnighausen T, **Kenny A**, Rozelle JW, Karlay RG, Mendin SF, Tehmeh LG, Varpilah B, Grant B, Subah M, Harris R, Wiah SO, Dunbar N, Wesseh CS, Hirschhorn LR, Siedner MJ, Kraemer JD. Early impact of the Liberian National Community Assistant Health Program on under-five mortality in Grand Bassa County: A non-randomized stepped wedge evaluation. *PLOS Global Public Health*, (accepted), 2026.
+1. Obaje HI, White EE, Dennis M, Jockers D, Barnighausen T, **Kenny A**, Rozelle JW, Karlay RG, Mendin SF, Tehmeh LG, Varpilah B, Grant B, Subah M, Harris R, Wiah SO, Dunbar N, Wesseh CS, Hirschhorn LR, Siedner MJ, Kraemer JD. Early impact of the Liberian National Community Assistant Health Program on under-five mortality in Grand Bassa County: A non-randomized stepped wedge evaluation. *PLOS Global Public Health*, 6(9): e0005681, 2026.
 1. Salako A, Musa Z, ..., **Kenny A**, ..., Ezechi O, Salako B. Safety, antimicrobial resistance and implementation of azithromycin mass drug administration among children aged 1-59 months in Nigeria: protocol for a hybrid type II effectiveness-implementation study. *VeriXiv*, 3(267), 2026.
 1. **Kenny A**, Olivier S, Zang J, Imai-Eaton JW, Hughes JP, Siedner MJ. A discrete-time survival model to handle interval-censored covariates, with applications to HIV cohort studies. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, qlag044, 2026.
 1. Downey J, **Kenny A**. Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design. *International Journal of Epidemiology*, 55(4), 2026.
@@ -156,14 +159,14 @@ Updated September 14, 2026.
 1. **Kenny A**, Wolock C. SimEngine: a modular framework for statistical simulations in R. *The R Journal*, 17(1), 2025.
 1. Lee KM, Turner EL, **Kenny A**. Analysis of stepped-wedge cluster randomized trials when treatment effects vary by exposure time or calendar time. *Statistics in Medicine*, 40(20-22), 2025.
 1. Moyo R, Okango EM, Bolton L, Siedner MJ, **Kenny A**, Otto M, Otambo W, Blose N, Nyasulu PS, Tanser F. Decline in Post-COVID-19 Pandemic all-cause and HIV-related mortality in the context of Dolutegravir rollout in rural South Africa: an interrupted time series analysis. *Lancet preprint, doi.org/10.2139/ssrn.5378174*, 2025.
-1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 10-1097, 2025.
+1. Wolock CJ, Jacob S, Bennett JC, Elias-Warren A, O’Hanlon J, **Kenny A**, Jewell NP, Rotnitzky A, Weil AA, Chu HY, Carone M. Investigating symptom duration using current status data: a case study of post-acute COVID-19 syndrome. *Epidemiology*, 36(5), 2025.
 1. Carpp LN, Hyrien O, Fong Y, ..., **Kenny A**, ..., Gilbert PB. Neutralizing antibody correlate of protection against severe-critical COVID-19 in the ENSEMBLE single-dose Ad26.COV2.S vaccine efficacy trial. *Nature Communications*, 15(9785), 2024.
 1. Zhang B, Fong Y, Fintzi J, ..., **Kenny A**, ..., Follmann D. Omicron COVID-19 immune correlates analysis of a third dose of mRNA-1273 in the COVE Trial. *Nature Communications*, 15(7954), 2024.
 1. **Kenny A**, van Duijn J, Dintwe O, Heptinstall J, ..., Andersen-Nissen E, Stieh DJ, Tomaras GD, Gilbert PB. Immune correlates analysis of the Imbokodo (HVTN 705/HPX2008) efficacy trial of a mosaic HIV-1 vaccine regimen evaluated in Southern African people assigned female sex at birth: a two-phase case-control study. *eBioMedicine*, 108(105320), 2024.
 1. Voldal E, **Kenny A**, Xia F, Heagerty PJ, Hughes JP. Robust analysis of stepped wedge trials using composite likelihood models. *Statistics in Medicine*, 43(17), 2024.
 1. Jockers D, Ngafuan R, Baernighausen T, Kessley A, White EE, **Kenny A**, Kraemer JD, Geedeh J, Rozelle J, Holmes L, Obaje H, Wheh S, Pedersen J, Siedner MJ, Mendin S, Subah M, Hirschhorn LR. Under-five mortality before and after implementation of the Liberia National Community Health Assistant (NCHA) program: A study protocol. *PloS One*, 19(3):e0272172, 2024.
-1. Gilbert P, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* 42(9), 2024.
-1. Gilbert P, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
+1. Gilbert PB, Fong Y, Hejazi N, **Kenny A**, Huang Y, Carone M, Benkeser D, Follmann D. Four Statistical Frameworks for Assessing an Immune Correlate of Protection (Surrogate Endpoint) from a Randomized, Controlled, Vaccine Efficacy Trial. *Vaccine* 42(9), 2024.
+1. Gilbert PB, Fong Y, **Kenny A**, Carone M. A controlled effects approach to assessing immune correlates of protection. *Biostatistics*, 24(4):850-865, 2023.
 1.	Huang Y, Hejazi NS, Blette B, ..., **Kenny A**, ..., Gilbert PB. Stochastic interventional vaccine efficacy and principal surrogate effect modification analyses of antibody markers as correlates of protection against symptomatic COVID-19 in the COVE mRNA-1273 trial. *Viruses*, 15(10), 2023.
 1. Benkeser D, Montefiori DC, McDermott AB, ..., **Kenny A**, ..., Gilbert PB. Comparing and combining antibody assays as correlates of protection against COVID-19 in the COVE mRNA-1273 vaccine efficacy trial. *Science Translational Medicine*, 15(692):eade90, 2023.
 1. Seaton K, Huang Y, ..., **Kenny A**, ..., Gilbert PB, Tomaras GD. Pharmacokinetic serum concentrations of VRC01 correlate with prevention of HIV-1 acquisition. *eBioMedicine*, 93(104590):1-15, 2023.
