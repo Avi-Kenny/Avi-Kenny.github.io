@@ -1,11 +1,10 @@
 source "https://rubygems.org"
 
-# For local previews only: run `bundle exec jekyll serve`.
+# Preview locally with `bundle exec jekyll serve`.
 #
-# GitHub Pages builds the live site with its own gems. The usual "github-pages"
-# gem requires Ruby below 4.0, so this uses Jekyll directly. That makes local
-# previews a newer Jekyll than the live site, so check the live site after
-# changes to layouts or plugins.
+# The live site is built by .github/workflows/pages.yml with these same gems,
+# so local previews match it. The usual "github-pages" gem requires Ruby
+# below 4.0, so this uses Jekyll directly.
 
 gem "jekyll", "~> 4.3"
 gem "webrick"
