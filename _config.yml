@@ -11,7 +11,7 @@ title                    : "The Kenny Lab"
 title_separator          : "-"
 name                     : &name "Avi Kenny"
 description              : &description "Duke University"
-url                      : https://Avi-Kenny.github.io/
+url                      : https://avi-kenny.github.io # no trailing slash: links add their own
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Avi-Kenny/Avi-Kenny.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
