@@ -1,0 +1,33 @@
+# Lab members shown on the About page, in this order.
+# photo: put a square headshot in images/lab/ and give its file name. Leave it out to show the placeholder.
+# former: true moves someone to the "Former lab members" section. Everyone else is listed as current.
+
+- name: "Qi Wang"
+  role: "PhD student, Biostatistics"
+  photo: "qi-wang.jpg"
+  description: "Qi studied at the University of Washington and Tsinghua University before coming to Duke. Qi's research interests include statistical methods for cluster-randomized trials, stepped-wedge designs, and HIV studies."
+
+- name: "Jianxuan Zang"
+  role: "PhD student, Biostatistics"
+  photo: "jianxuan-zang.jpg"
+  description: "Jianxuan earned a master's degree in Statistics from the University of Washington before joining Duke. His research focuses on the design and analysis of cluster-randomized trials and on methods for survival analysis."
+
+- name: "Anand Panigrahy"
+  role: "Master's student, Biostatistics"
+  photo: "anand-panigrahy.jpg"
+  description: "Anand earned bachelor's degrees in Biochemistry and Kinesiology from the University of Massachusetts Amherst and spent about four years working in Boston in biomedical and clinical research settings, where he did a mix of wet lab and dry lab work before coming to Duke. His research focuses on the analysis of clinical trials in Niger and Kenya, with an emphasis on survival analysis and longitudinal modeling."
+
+- name: "JT Rapp"
+  role: "Master's student, Biostatistics"
+  photo: "jt-rapp.jpg"
+  description: "JT studied mathematics at Wabash College before beginning his master's in biostatistics at Duke. His research leverages machine learning to develop a bedside comorbidity index that predicts 90-day mortality risk for hospitalized adults across Sub-Saharan Africa."
+
+- name: "Gehui Zhou"
+  role: "Master's student, Biostatistics"
+  former: true
+  description: "Gehui developed a survival model to study the question of whether the effects of mass drug administration of azithromycin fade with time using clinical trial data from Niger."
+
+- name: "Andrew Johnson"
+  role: "Master's student, Biostatistics"
+  former: true
+  description: "Andrew Johnson developed a new mixed effects model for the analysis of binary data for cluster randomized trials using a blended logit-log link function. This model allows for parameters to be interpreted on the relative risk scale and the use of a model-based variance estimator, while avoiding convergence issues associated with the use of a log link function."

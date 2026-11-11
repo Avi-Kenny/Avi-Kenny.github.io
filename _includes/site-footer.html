@@ -1,0 +1,12 @@
+{% include base_path %}
+
+<footer class="site-footer">
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
+  <nav aria-label="Footer">
+    {% for link in site.data.navigation.main %}
+      {% unless link.url %}{% continue %}{% endunless %}
+      {% if link.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = base_path %}{% endif %}
+      <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+    {% endfor %}
+  </nav>
+</footer>

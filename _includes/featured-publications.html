@@ -1,0 +1,13 @@
+<section class="featured-pubs" aria-labelledby="featured-pubs-heading">
+<h2 id="featured-pubs-heading">Featured publications</h2>
+<ul class="featured-pubs__grid">
+{% for pub in page.featured %}
+<li class="featured-pub">
+<h3 class="featured-pub__title">{{ pub.title }}</h3>
+<p class="featured-pub__journal">{{ pub.journal }}, {{ pub.year }}</p>
+<p class="featured-pub__authors">{{ pub.authors }}</p>
+<p class="featured-pub__doi"><a href="https://doi.org/{{ pub.doi }}">DOI: {{ pub.doi }}</a></p>
+</li>
+{% endfor %}
+</ul>
+</section>

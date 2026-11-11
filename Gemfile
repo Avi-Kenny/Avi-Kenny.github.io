@@ -1,33 +1,29 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# For local previews only: run `bundle exec jekyll serve`.
 #
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# GitHub Pages builds the live site with its own gems. The usual "github-pages"
+# gem requires Ruby below 4.0, so this uses Jekyll directly. That makes local
+# previews a newer Jekyll than the live site, so check the live site after
+# changes to layouts or plugins.
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
+gem "webrick"
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
+# No longer bundled with Ruby
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
 
-# gem "jekyll"
+# Windows only: timezone data and file watching
+gem "tzinfo-data"
+gem "wdm", "~> 0.2", platforms: [:windows]
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
   gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate"
+  gem "jekyll-gist"
+  gem "jekyll-redirect-from"
 end
-
-# Avoid "Unable to load the EventMachine C extension" error
-gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
-
-# Avoid "No source of timezone data could be found." error
-gem 'tzinfo-data'

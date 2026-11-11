@@ -1,5 +1,6 @@
 ---
 layout: archive
+published: false # Hidden for now. To restore: delete this line and uncomment CV in _data/navigation.yml
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true

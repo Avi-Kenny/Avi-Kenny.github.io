@@ -1,0 +1,30 @@
+{% include base_path %}
+{% assign author = site.author %}
+{% assign current_members = site.data.lab_members | where_exp: "member", "member.former != true" %}
+{% assign former_members = site.data.lab_members | where: "former", true %}
+<div class="lab-page">
+<h2 class="lab-page__current">Current lab members</h2>
+<article class="pi" itemscope itemtype="http://schema.org/Person">
+<img class="pi__photo" src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="Photo of {{ author.name }}" itemprop="image">
+<div class="pi__body">
+<h3 class="pi__name" itemprop="name">{{ author.name }}, Ph.D.</h3>
+<p class="pi__role"><span class="pi__role-label">Principal Investigator</span><span itemprop="jobTitle">{{ author.bio }}</span></p>
+<p class="pi__bio">{{ page.bio }}</p>
+<ul class="pi__links">
+{% if author.location %}<li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>{% endif %}
+{% if author.email %}<li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>{% endif %}
+{% if author.github %}<li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>{% endif %}
+{% if author.googlescholar %}<li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>{% endif %}
+{% if author.pubmed %}<li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true"></i> PubMed</a></li>{% endif %}
+{% if author.orcid %}<li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i> ORCID</a></li>{% endif %}
+</ul>
+<h4 class="pi__interests-heading">Research interests</h4>
+<ul class="pi__interests">
+{% for interest in page.interests %}<li>{{ interest }}</li>{% endfor %}
+</ul>
+</div>
+</article>
+{% include lab-member-grid.html members=current_members %}
+<h2 class="lab-page__former">Former lab members</h2>
+{% include lab-member-grid.html members=former_members %}
+</div>

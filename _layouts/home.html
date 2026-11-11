@@ -1,0 +1,95 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+    <meta charset="utf-8">
+    {% include seo.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>document.documentElement.classList.add('has-reveal');</script>
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/theme.css">
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/home.css">
+    {% include head/custom.html %}
+  </head>
+
+  <body class="home">
+    {% include masthead.html %}
+
+    <main>
+      <section class="hero">
+        <div class="hero__text">
+          <h1>{{ page.hero.title }} <em>{{ page.hero.title_emphasis }}</em></h1>
+          {% if page.hero.text %}<p class="hero__lead">{{ page.hero.text }}</p>{% endif %}
+          <a class="button" href="#research">{{ page.hero.button }}</a>
+        </div>
+        <img class="hero__mark" src="{{ base_path }}/images/graphics/neuromap-fine.svg" alt="" width="1000" height="470">
+      </section>
+
+      <section class="home__grid" id="research" aria-label="Research areas">
+        {% for area in page.research_areas %}
+          <a class="home__card glass reveal" href="#{{ area.id }}">
+            <figure>
+              <img src="{{ base_path }}{{ area.image }}" alt="{{ area.alt }}" width="1600" height="1600">
+              <figcaption>{{ area.caption }} <span class="home__card-arrow" aria-hidden="true">&darr;</span></figcaption>
+            </figure>
+          </a>
+        {% endfor %}
+      </section>
+
+      <section class="features">
+        {% for feature in page.features %}
+          <article class="feature" id="{{ feature.id }}">
+            <img class="feature__image reveal" src="{{ base_path }}{{ feature.image }}" alt="{{ feature.alt }}" width="1200" height="1200" loading="lazy">
+            <div class="feature__panel glass reveal">
+              <p class="eyebrow">{{ feature.eyebrow }}</p>
+              <h2>{{ feature.title }}</h2>
+              <p>{{ feature.text }}</p>
+              <a class="feature__more" href="{{ base_path }}/research/{{ feature.id }}/">Read more<span class="visually-hidden"> about {{ feature.title }}</span> <span aria-hidden="true">&rarr;</span></a>
+            </div>
+          </article>
+        {% endfor %}
+      </section>
+
+      <section class="partners reveal" aria-labelledby="partners-heading">
+        <h2 id="partners-heading">{{ page.partners_title }}</h2>
+        <ul class="partners__grid">
+          {% for partner in page.partners %}
+            <li>
+              <a class="partner glass" href="{{ partner.url }}">
+                <img src="{{ base_path }}/images/partners/{{ partner.logo }}" alt="{{ partner.name }}" loading="lazy">
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </main>
+
+    {% include site-footer.html %}
+
+    <script>
+      (function () {
+        var items = document.querySelectorAll('.reveal');
+        function show(el) { el.classList.add('is-visible'); }
+        if (!('IntersectionObserver' in window)) {
+          items.forEach(show);
+          return;
+        }
+        var observer = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              show(entry.target);
+              observer.unobserve(entry.target);
+            }
+          });
+        }, { rootMargin: '0px 0px -8% 0px' });
+        items.forEach(function (el) { observer.observe(el); });
+      })();
+    </script>
+
+    {% include analytics.html %}
+  </body>
+</html>

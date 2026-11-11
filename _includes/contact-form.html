@@ -1,0 +1,30 @@
+{% if page.web3forms_key and page.web3forms_key != "" %}
+<p class="contact-sent" id="contact-sent" role="status" hidden>Thank you. Your message has been sent.</p>
+<form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+<input type="hidden" name="access_key" value="{{ page.web3forms_key }}">
+<input type="hidden" name="subject" value="New message from the Kenny Lab website">
+<input type="hidden" name="from_name" value="Kenny Lab website">
+<input type="hidden" name="redirect" id="contact-redirect" value="https://web3forms.com/success">
+<input type="checkbox" name="botcheck" class="contact-form__trap" tabindex="-1" autocomplete="off" aria-hidden="true">
+<label for="contact-name">Name</label>
+<input id="contact-name" type="text" name="name" autocomplete="name" required>
+<label for="contact-email">Email</label>
+<input id="contact-email" type="email" name="email" autocomplete="email" required>
+<label for="contact-message">Message</label>
+<textarea id="contact-message" name="message" rows="7" required></textarea>
+<button type="submit">Send message</button>
+</form>
+<script>
+  (function () {
+    var clean = location.origin + location.pathname;
+    document.getElementById('contact-redirect').value = clean + '?sent=1';
+    if (new URLSearchParams(location.search).get('sent') === '1') {
+      document.getElementById('contact-sent').hidden = false;
+      history.replaceState(null, '', location.pathname);
+    }
+  })();
+</script>
+<p class="contact-alt">You can also email <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.</p>
+{% else %}
+<p>To get in touch, please email <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.</p>
+{% endif %}

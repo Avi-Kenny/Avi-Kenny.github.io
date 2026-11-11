@@ -2,7 +2,7 @@
 layout: archive
 title: "Software"
 permalink: /software/
-author_profile: true
+author_profile: false
 ---
 
 <!-- https://gh-card.dev/ -->

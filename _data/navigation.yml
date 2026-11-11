@@ -1,5 +1,18 @@
 # main links links
 main:
+  # A menu item with children opens a dropdown instead of linking to a page.
+  - title: "Research"
+    children:
+      - title: "Psychedelic medicine in global health"
+        url: /research/psychedelic-medicine/
+      - title: "Clinical trial methodology"
+        url: /research/clinical-trial-methodology/
+      - title: "Global health evaluation and implementation science"
+        url: /research/evaluation-implementation/
+
+  - title: "About"
+    url: /about/
+
   - title: "Publications"
     url: /publications/
 
@@ -12,9 +25,11 @@ main:
   - title: "Software"
     url: /software/
     
-  - title: "CV"
-    url: /cv/
-    
-    
+  - title: "Contact"
+    url: /contact/
+
+#  - title: "CV"
+#    url: /cv/
+
 #  - title: "Guide"
 #    url: /markdown/

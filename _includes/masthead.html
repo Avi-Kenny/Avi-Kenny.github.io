@@ -1,23 +1,83 @@
 {% include base_path %}
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+<header class="site-nav" id="site-nav">
+  <nav class="site-nav__inner" aria-label="Main">
+    <div class="site-nav__identity">
+      <a class="site-nav__duke" href="{{ base_path }}/"><img src="{{ base_path }}/images/duke-logo.png" alt="Duke University. The Kenny Lab home"></a>
+      <span class="site-nav__divider" aria-hidden="true"></span>
+      <a class="site-nav__brand" href="{{ base_path }}/">{{ site.title }}</a>
+    </div>
+    <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav-links" aria-label="Toggle navigation">
+      <span class="site-nav__bar"></span>
+      <span class="site-nav__bar"></span>
+      <span class="site-nav__bar"></span>
+    </button>
+    <div class="site-nav__collapse" id="site-nav-links">
+      <ul class="site-nav__links">
+        {% for link in site.data.navigation.main %}
+          {% if link.children %}
+            {% assign sub_active = false %}
+            {% for child in link.children %}{% if page.url == child.url %}{% assign sub_active = true %}{% endif %}{% endfor %}
+            <li class="site-nav__has-sub">
+              <button class="site-nav__sub-toggle{% if sub_active %} is-active{% endif %}" type="button" aria-expanded="false" aria-controls="site-nav-sub-{{ forloop.index }}">{{ link.title }}</button>
+              <ul class="site-nav__sub" id="site-nav-sub-{{ forloop.index }}">
+                {% for child in link.children %}
+                  <li><a href="{{ base_path }}{{ child.url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+            <li><a href="{{ domain }}{{ link.url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     </div>
-  </div>
-</div>
+  </nav>
+</header>
+
+<script>
+  (function () {
+    var nav = document.getElementById('site-nav');
+    var toggle = nav.querySelector('.site-nav__toggle');
+    function setOpen(open) {
+      nav.classList.toggle('is-open', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    nav.classList.add('has-js');
+    toggle.addEventListener('click', function () {
+      setOpen(!nav.classList.contains('is-open'));
+    });
+    var subs = nav.querySelectorAll('.site-nav__has-sub');
+    function setSub(item, open) {
+      item.classList.toggle('is-open', open);
+      item.querySelector('.site-nav__sub-toggle').setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    subs.forEach(function (item) {
+      item.querySelector('.site-nav__sub-toggle').addEventListener('click', function (event) {
+        event.stopPropagation();
+        setSub(item, !item.classList.contains('is-open'));
+      });
+    });
+    document.addEventListener('click', function (event) {
+      subs.forEach(function (item) {
+        if (!item.contains(event.target)) { setSub(item, false); }
+      });
+    });
+    document.addEventListener('keydown', function (event) {
+      if (event.key !== 'Escape') { return; }
+      var openSub = nav.querySelector('.site-nav__has-sub.is-open');
+      if (openSub) {
+        setSub(openSub, false);
+        openSub.querySelector('.site-nav__sub-toggle').focus();
+      } else if (nav.classList.contains('is-open')) {
+        setOpen(false);
+        toggle.focus();
+      }
+    });
+  })();
+</script>

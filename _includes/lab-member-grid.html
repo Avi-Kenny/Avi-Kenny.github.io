@@ -1,0 +1,12 @@
+<ul class="lab-members__grid">
+{% for member in include.members %}
+<li class="lab-member">
+<img class="lab-member__photo" src="{{ base_path }}/images/lab/{{ member.photo | default: 'placeholder.svg' }}" alt="{% if member.photo %}Photo of {{ member.name }}{% endif %}" width="88" height="88" loading="lazy">
+<div class="lab-member__text">
+<h3 class="lab-member__name">{{ member.name }}</h3>
+<p class="lab-member__role">{{ member.role }}</p>
+<p class="lab-member__description">{{ member.description }}</p>
+</div>
+</li>
+{% endfor %}
+</ul>
