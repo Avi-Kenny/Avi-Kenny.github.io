@@ -22,6 +22,11 @@
   photo: "jt-rapp.jpg"
   description: "JT studied mathematics at Wabash College before beginning his master's in biostatistics at Duke. His research leverages machine learning to develop a bedside comorbidity index that predicts 90-day mortality risk for hospitalized adults across Sub-Saharan Africa."
 
+- name: "Zahra Khan"
+  role: "Master's student, Biostatistics"
+  photo: "zahra-khan.jpg"
+  description: "Zahra studied Behavioral Neuroscience at the University of Kansas and gained research experience in data science before coming to Duke University. Her research focuses on developing and validating predictive models for Post-Tuberculosis Lung Disease (PTLD) in high tuberculosis-burden regions, using machine learning and nested cross-validation techniques."
+
 - name: "Gehui Zhou"
   role: "Master's student, Biostatistics"
   former: true
