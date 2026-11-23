@@ -342,6 +342,26 @@ body {
   border-radius: 22px;
 }
 
+/* For pages with enough text to wrap around the image */
+#main .archive .research-hero--aside {
+  float: right;
+  width: min(42%, 370px);
+  height: auto;
+  aspect-ratio: 1;
+  margin: 6px 0 20px 36px;
+}
+
+/* Too narrow for two columns: a full-width banner, cropped to fill */
+@media (max-width: 700px) {
+  #main .archive .research-hero--aside {
+    float: none;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    margin: 0 0 24px;
+    object-fit: cover;
+  }
+}
+
 /* Featured publications */
 #main .archive .featured-pubs {
   margin: 0 0 36px;
